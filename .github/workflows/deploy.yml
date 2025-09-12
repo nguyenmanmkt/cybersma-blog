@@ -20,7 +20,6 @@ jobs:
 
       - name: Build site
         run: | 
-          git submodule update --init --recursive
           hugo --minify
 
       - name: Setup SSH
