@@ -2,7 +2,7 @@ name: Build & Deploy Hugo
 on:
   push:
     branches:
-      - master   # hoặc main, tuỳ branch repo của bạn
+      - master 
 
 jobs:
   build-and-deploy:
