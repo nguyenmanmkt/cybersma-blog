@@ -1,0 +1,40 @@
+name: Build & Deploy Hugo
+on:
+  push:
+    branches:
+      - master   # hoặc main, tuỳ branch repo của bạn
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.150.0'
+          extended: true
+
+      - name: Build site
+        run: hugo --minify
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.DEPLOY_KEY }}" > ~/.ssh/id_ed25519
+          chmod 600 ~/.ssh/id_ed25519
+          ssh-keyscan -H "${{ secrets.DEPLOY_SERVER }}" >> ~/.ssh/known_hosts
+
+      - name: Rsync public to server
+        run: |
+          rsync -avz --delete -e "ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes" \
+            public/ "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_SERVER }}:${{ secrets.DEPLOY_PATH }}"
+
+      - name: Reload nginx (only if config changed)
+        if: contains(github.event.head_commit.message, '[reload-nginx]')
+        run: |
+          ssh -i ~/.ssh/id_ed25519 -o StrictHostKeyChecking=yes \
+            "${{ secrets.DEPLOY_USER }}@${{ secrets.DEPLOY_SERVER }}" 'sudo systemctl reload nginx'
