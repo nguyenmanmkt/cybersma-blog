@@ -19,7 +19,9 @@ jobs:
           extended: true
 
       - name: Build site
-        run: hugo --minify
+        run: | 
+          git submodule update --init --recursive
+          hugo --minify
 
       - name: Setup SSH
         run: |
