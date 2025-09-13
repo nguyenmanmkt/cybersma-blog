@@ -15,7 +15,7 @@ categories: ["An ninh mạng"]
 
 ### Mở đầu
 
-![Hình ảnh minh họa chuỗi tấn công Malvertising GitHub](content/posts/static/images/2025/2025-09-13T18:09:09.960+07:00.jpg)
+![Hình ảnh minh họa chuỗi tấn công Malvertising GitHub](/images/2025/2025-09-13T18:09:09.960+07:00.jpg)
 
 Malvertising, hay quảng cáo độc hại, đã trở thành một trong những phương thức tấn công mạng phổ biến và tinh vi nhất hiện nay. Mới đây, một chiến dịch malvertising quy mô lớn đã bị phát hiện lợi dụng nền tảng GitHub để phân phối phần mềm đánh cắp thông tin (infostealer), gây ra mối đe dọa nghiêm trọng cho hàng triệu thiết bị trên toàn cầu [Nguồn: Microsoft Security Blog]. Bài báo cáo này sẽ đi sâu phân tích cơ chế hoạt động của chiến dịch tấn công này, lý do GitHub bị lợi dụng và đưa ra các khuyến nghị bảo mật nhằm giảm thiểu rủi ro.
 
