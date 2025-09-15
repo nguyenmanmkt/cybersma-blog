@@ -1,0 +1,9 @@
+.two-columns {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.two-columns > div {
+  flex: 1;
+  min-width: 250px; /* cho responsive */
+}
