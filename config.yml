@@ -4,6 +4,10 @@ title: CYBERSMA
 theme: PaperMod
 params:
   ShowCodeCopyButtons: true
+  ShowReadingTime: true
+  ShowBreadCrumbs: true
+
+
 menu:
   main:
     - name: Security

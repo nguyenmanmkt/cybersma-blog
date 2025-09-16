@@ -2,6 +2,7 @@
 title: "Hiểu Rõ OWASP Top 10: Nền Tảng Bảo Mật Ứng Dụng Web"
 date: 2025-09-16T14:45:40.668+07:00
 draft: false
+ShowToc: true
 tags: ["OWASP", "an ninh mạng", "bảo mật ứng dụng web", "lỗ hổng bảo mật"]
 categories: ["Cyber Security"]
 ---
