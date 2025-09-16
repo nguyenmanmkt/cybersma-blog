@@ -6,10 +6,17 @@ params:
   ShowCodeCopyButtons: true
 menu:
   main:
+    - name: Security
+      url: /categories/an-ninh-mang/
+      weight: 50
+    - name: Công nghệ
+      url: /categories/cong-nghe/
+      weight: 50
+    - name: AI
+      url: /categories/ai/
+      weight: 50
     - name: Archive
       url: /archives/
-      weight: 50
-
-
+      weight: 50  
 
 
