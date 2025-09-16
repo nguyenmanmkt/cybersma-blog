@@ -7,6 +7,13 @@ params:
   ShowReadingTime: true
   ShowBreadCrumbs: true
 
+params:
+  editPost:
+    URL: "https://github.com/nguyenmanmkt/cybersma-blog/blob/master/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+
 
 menu:
   main:
