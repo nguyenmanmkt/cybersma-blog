@@ -7,7 +7,7 @@ params:
 menu:
   main:
     - name: Security
-      url: /categories/security/
+      url: /categories/it-security/
       weight: 1
     - name: AI & Data
       url: /categories/ai-data/
