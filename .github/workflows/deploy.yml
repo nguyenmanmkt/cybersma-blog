@@ -18,6 +18,9 @@ jobs:
           hugo-version: '0.150.0'
           extended: true
 
+      - name: Build Hugo site with custom config
+        run: hugo --config config.yml
+
       - name: Build site
         run: | 
           git submodule update --init --recursive
