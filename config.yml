@@ -6,7 +6,7 @@ params:
   ShowCodeCopyButtons: true
 menu:
   main:
-    - name: Lưu trữ
+    - name: Archive
       url: /archives/
       weight: 50
 
