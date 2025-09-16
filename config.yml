@@ -7,13 +7,13 @@ params:
 menu:
   main:
     - name: Security
-      url: /categories/it-security/
+      url: /categories/Cyber Security/
       weight: 1
-    - name: AI & Data
-      url: /categories/ai-data/
+    - name: AI
+      url: /categories/AI & Data/
       weight: 2
     - name: Software
-      url: /categories/software/
+      url: /categories/Software & Tool/
       weight: 3
     - name: Archives
       url: /archives/
