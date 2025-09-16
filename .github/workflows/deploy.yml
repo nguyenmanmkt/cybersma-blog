@@ -21,7 +21,6 @@ jobs:
       - name: Build site
         run: | 
           git submodule update --init --recursive
-          hugo --ignoreCache
           hugo --config config.yml --minify
 
       - name: Setup SSH
