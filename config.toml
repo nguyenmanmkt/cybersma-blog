@@ -2,9 +2,8 @@ baseURL = 'https://cybersma.com/'
 languageCode = 'en-us'
 title = 'CYBERSMA'
 theme = "PaperMod"
-[params]
-  ShowCodeCopyButtons = true
-[params.assets]
-  css = ["css/extended/custom.css"]
+params:
+  ShowCodeCopyButtons: true
+
 
 
