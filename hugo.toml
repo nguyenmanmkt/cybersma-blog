@@ -4,3 +4,8 @@ title = 'CYBERSMA'
 theme = "PaperMod"
 [params]
 ShowCodeCopyButtons = true
+
+[[menu.main]]
+name = "Lưu trữ"
+url = "/archives/"
+weight = 50
