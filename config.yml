@@ -7,16 +7,16 @@ params:
 menu:
   main:
     - name: Security
-      url: /categories/an-ninh-mang/
-      weight: 50
-    - name: Công nghệ
-      url: /categories/cong-nghe/
-      weight: 50
-    - name: AI
-      url: /categories/ai/
-      weight: 50
-    - name: Archive
+      url: /categories/security/
+      weight: 1
+    - name: AI & Data
+      url: /categories/ai-data/
+      weight: 2
+    - name: Software
+      url: /categories/software/
+      weight: 3
+    - name: Archives
       url: /archives/
-      weight: 50  
+      weight: 4  
 
 
