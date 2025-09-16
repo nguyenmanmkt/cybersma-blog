@@ -10,10 +10,10 @@ menu:
       url: /categories/Cyber Security/
       weight: 1
     - name: AI
-      url: /categories/AI & Data/
+      url: /categories/AI Data/
       weight: 2
     - name: Software
-      url: /categories/Software & Tool/
+      url: /categories/Software Tool/
       weight: 3
     - name: Archives
       url: /archives/

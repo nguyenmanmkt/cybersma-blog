@@ -3,7 +3,7 @@ title: "Wazuh SIEM: Giám sát An ninh, Quản lý Nhật ký và Phát hiện T
 date: 2025-09-13T15:02:29.185+07:00
 draft: false
 tags: ["SIEM", "Wazuh", "security", "threat detection", "log management", "EDR", "hướng dẫn"]
-categories: ["Cyber Security","AI & Data"]
+categories: ["Cyber Security","AI Data"]
 ---
 
 Trong kỷ nguyên số hóa hiện nay, việc bảo vệ hạ tầng công nghệ thông tin khỏi các mối đe dọa mạng ngày càng trở nên phức tạp và cấp bách. Các tổ chức cần một giải pháp toàn diện để giám sát an ninh, quản lý nhật ký hệ thống và phát hiện các cuộc tấn công tiềm tàng. Wazuh nổi lên như một giải pháp **SIEM (Security Information and Event Management) mã nguồn mở** mạnh mẽ, cung cấp khả năng giám sát an ninh toàn diện, quản lý nhật ký tập trung và phát hiện mối đe dọa theo thời gian thực cho các môi trường truyền thống, đám mây và hybrid [Nguồn: Wazuh]. Wazuh tích hợp cả chức năng SIEM, EDR (Endpoint Detection and Response) và giám sát tuân thủ vào một nền tảng thống nhất, mang lại sự linh hoạt cao cho các nhu cầu bảo mật của doanh nghiệp.

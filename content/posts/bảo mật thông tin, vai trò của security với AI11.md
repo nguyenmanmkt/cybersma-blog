@@ -3,7 +3,7 @@ title: "Bảo Mật Thông Tin và Vai Trò Kép Của AI: Lá Chắn và Mục 
 date: 2025-09-15T17:20:19.834+07:00
 draft: false
 tags: ["bảo mật thông tin", "AI", "an ninh mạng", "threat intelligence", "mã độc"]
-categories: ["Cyber Security","AI & Data"]
+categories: ["Cyber Security","AI Data"]
 ---
 
 Trong bối cảnh số hóa bùng nổ, thông tin đã trở thành tài sản quý giá nhất của mọi tổ chức và cá nhân. Bảo mật thông tin không chỉ là một khái niệm mà là nền tảng sống còn để duy trì sự tin cậy, hoạt động liên tục và bảo vệ dữ liệu nhạy cảm. Đồng thời, sự trỗi dậy của Trí tuệ Nhân tạo (AI) đang định hình lại cách chúng ta tiếp cận và xử lý các thách thức an ninh mạng. AI không chỉ là một công cụ mạnh mẽ để bảo vệ, mà bản thân các hệ thống AI cũng là mục tiêu hấp dẫn cho tin tặc. Vậy, đâu là vai trò kép của AI trong bức tranh bảo mật thông tin hiện đại?
