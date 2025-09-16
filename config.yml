@@ -10,7 +10,7 @@ params:
 params:
   editPost:
     URL: "https://github.com/nguyenmanmkt/cybersma-blog/blob/master/content"
-    Text: "Suggest Changes"
+    Text: "Github Changes"
     appendFilePath: true
 
 
