@@ -3,7 +3,7 @@ title: "Hiểu Rõ OWASP Top 10: Nền Tảng Bảo Mật Ứng Dụng Web"
 date: 2025-09-16T14:45:40.668+07:00
 draft: false
 tags: ["OWASP", "an ninh mạng", "bảo mật ứng dụng web", "lỗ hổng bảo mật"]
-categories: ["it-security"]
+categories: ["Cyber Security"]
 ---
 
 Trong bối cảnh công nghệ số phát triển không ngừng, các ứng dụng web đóng vai trò trung tâm trong mọi hoạt động từ thương mại điện tử, dịch vụ tài chính đến các nền tảng mạng xã hội. Tuy nhiên, sự tiện lợi này cũng đi kèm với những rủi ro bảo mật đáng kể. Các lỗ hổng trong ứng dụng web có thể bị khai thác, dẫn đến mất dữ liệu, gián đoạn dịch vụ, hoặc thậm chí là đánh mất uy tín của tổ chức.
