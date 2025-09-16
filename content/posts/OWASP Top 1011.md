@@ -10,7 +10,8 @@ Trong bối cảnh công nghệ số phát triển không ngừng, các ứng d�
 
 Để giúp các nhà phát triển và chuyên gia bảo mật đối phó với thách thức này, Tổ chức An ninh Ứng dụng Web Mở (OWASP) đã phát hành danh sách **OWASP Top 10** – một tài liệu tiêu chuẩn ngành liệt kê 10 rủi ro bảo mật ứng dụng web quan trọng nhất. Đây không chỉ là một danh sách các lỗ hổng, mà còn là kim chỉ nam giúp các tổ chức ưu tiên các nỗ lực quản lý lỗ hổng và đào tạo nhà phát triển, đảm bảo an toàn cho các ứng dụng của mình trong một thế giới kỹ thuật số ngày càng phức tạp (N1,3).
 
-{{< imagereader src="/images/2025/OWASP-Top-10-API-Security-Risk.jpg" alt="OWASP Top 10 API Security Risk" >}}
+![OWASP Top 10 API Security Risk](/images/2025/OWASP-Top-10-API-Security-Risk.jpg)
+
 
 ## Tổng quan về OWASP Top 10 Phiên bản mới nhất (2025)
 
