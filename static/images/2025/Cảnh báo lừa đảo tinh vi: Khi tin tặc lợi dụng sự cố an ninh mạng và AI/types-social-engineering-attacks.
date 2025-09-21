@@ -1,0 +1,2067 @@
+<!doctype html><html lang="en-us"><head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <title>Types of Social Engineering Scams [Updated 2022 Guide]</title>
+    <link rel="shortcut icon" href="https://www.biocatch.com/hubfs/2020%20Rebrand/branding/favicon-color.png">
+    <meta name="description" content="Learn about social engineering attacks, specifically ones aimed at the customers of financial organizations, and how to defend against them.">
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+
+    
+    
+    
+
+
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Learn about social engineering attacks, specifically ones aimed at the customers of financial organizations, and how to defend against them.">
+    <meta property="og:title" content="Types of Social Engineering Scams [Updated 2022 Guide]">
+    <meta name="twitter:description" content="Learn about social engineering attacks, specifically ones aimed at the customers of financial organizations, and how to defend against them.">
+    <meta name="twitter:title" content="Types of Social Engineering Scams [Updated 2022 Guide]">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/41194632307/1748884181503/template_mjtw_styles.min.css">
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/59862668471/1744352536751/template_new_styles.min.css">
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/123798244459/1754586394344/template_biocatch.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&amp;display=swap">
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/module_assets/1/65783850326/1750971903974/module_mjtw-site-header-dev.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css">
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/module_assets/1/65783855523/1744643883383/module_mjtw-site-footer-dev.min.css">
+    <script type="application/ld+json">
+{
+  "mainEntityOfPage" : {
+    "@type" : "WebPage",
+    "@id" : "https://www.biocatch.com/blog/types-social-engineering-attacks"
+  },
+  "author" : {
+    "name" : "James Nicholas",
+    "url" : "https://www.biocatch.com/blog/author/james-nicholas",
+    "@type" : "Person"
+  },
+  "headline" : "Types of Social Engineering Scams [Updated 2022 Guide]",
+  "datePublished" : "2022-05-20T16:06:00.000Z",
+  "dateModified" : "2024-10-11T04:47:13.894Z",
+  "publisher" : {
+    "name" : "BioCatch",
+    "logo" : {
+      "url" : "https://www.biocatch.com/hubfs/BioCatch.StaySafe.Vert.Period.color.png",
+      "@type" : "ImageObject"
+    },
+    "@type" : "Organization"
+  },
+  "@context" : "https://schema.org",
+  "@type" : "BlogPosting",
+  "image" : [ "https://www.biocatch.com/hubfs/iStock-623762322.jpg" ]
+}
+</script>
+
+
+    
+
+<script>
+    window._6si = window._6si || [];
+    window._6si.push(['enableEventTracking', true]);
+    window._6si.push(['setToken', '83cb84cc45c1badd9fa3e8814b21ed04']);
+    window._6si.push(['setEndpoint', 'b.6sc.co']);
+
+    
+
+    (function() {
+      var gd = document.createElement('script');
+      gd.type = 'text/javascript';
+      gd.async = true;
+      gd.src = '//j.6sc.co/6si.min.js';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(gd, s);
+    })();
+  </script>
+<!-- Hotjar Tracking Code for http://www.biocatch.com -->
+<script>
+   (function(h,o,t,j,a,r){
+       h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+       h._hjSettings={hjid:440664,hjsv:5};
+       a=o.getElementsByTagName('head')[0];
+       r=o.createElement('script');r.async=1;
+       r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+       a.appendChild(r);
+   })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSCX6W2');</script>
+<!-- End Google Tag Manager -->
+<meta name="google-site-verification" content="g5hau0gz5pYSGZBvehs9Hg9Ggmdsmfs-CVSolG5gQpI">
+
+<!-- zoominfo script -->
+<script>
+window[(function(_1RJ,_1D){var _vf4NE='';for(var _nScWyq=0;_nScWyq<_1RJ.length;_nScWyq++){_0S1O!=_nScWyq;var _0S1O=_1RJ[_nScWyq].charCodeAt();_0S1O-=_1D;_0S1O+=61;_1D>5;_0S1O%=94;_0S1O+=33;_vf4NE==_vf4NE;_vf4NE+=String.fromCharCode(_0S1O)}return _vf4NE})(atob('JHF4PDk0Ly0+cy9D'), 40)] = 'c15521bdbe1687874959'; var zi = document.createElement('script'); (zi.type = 'text/javascript'), (zi.async = true), (zi.src = (function(_oxY,_Ol){var _iDpSC='';for(var _uZ0onW=0;_uZ0onW<_oxY.length;_uZ0onW++){_iDpSC==_iDpSC;var _PoXf=_oxY[_uZ0onW].charCodeAt();_PoXf-=_Ol;_Ol>7;_PoXf+=61;_PoXf!=_uZ0onW;_PoXf%=94;_PoXf+=33;_iDpSC+=String.fromCharCode(_PoXf)}return _iDpSC})(atob('Ii4uKi1SR0ckLUY0I0UteywjKi4tRnspJ0c0I0UueSFGJC0='), 24)), document.readyState === 'complete'?document.body.appendChild(zi): window.addEventListener('load', function(){ document.body.appendChild(zi) });
+</script>
+
+<meta property="og:image" content="https://www.biocatch.com/hubfs/iStock-623762322.jpg">
+<meta property="og:image:width" content="3864">
+<meta property="og:image:height" content="2576">
+
+<meta name="twitter:image" content="https://www.biocatch.com/hubfs/iStock-623762322.jpg">
+
+
+<meta property="og:url" content="https://www.biocatch.com/blog/types-social-engineering-attacks">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="canonical" href="https://www.biocatch.com/blog/types-social-engineering-attacks">
+
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://www.biocatch.com/blog/rss.xml">
+<meta name="twitter:domain" content="www.biocatch.com">
+<meta name="twitter:site" content="@BioCatch">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+</script>
+
+<meta http-equiv="content-language" content="en-us">
+
+
+
+
+
+
+    
+    <!-- Additional head tags get inserted here (such as noindex on thank you pages) -->
+    
+  <meta name="generator" content="HubSpot"></head>
+  <body>
+    
+<div class="blog blog--post">
+  
+    <div class="body-wrapper   hs-content-id-21210433804 hs-blog-post hs-blog-id-3604590991">
+      
+      
+      <div id="hs_cos_wrapper_module_site_header_dev" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css" crossorigin="anonymous">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header data-t="x" class="site-header site-header-on-dark" data-language="english" role="banner">
+  <div class=" site-header__inner_new">
+    <div class="site-header__left">
+      <div class="site-header__logo">
+        <a href="/">
+         <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1238 499" style="width: 243px;max-height: none;max-width: none;">
+          <g>
+            <path fill="#0076bb" d="M422.74,236.98c0-8.62-6.24-15.04-14.86-15.04h-29.16v30.26h29.16c8.62,0,14.86-6.42,14.86-15.22M378.72,171.13v28.24h25.31c7.89,0,13.75-6.05,13.75-14.12s-5.69-14.12-13.75-14.12h-25.31ZM447.86,238.63c0,22.01-17.79,37.23-39.98,37.23h-54.47v-128.39h50.62c21.64,0,39.06,14.67,39.06,36.13,0,11.01-4.58,19.62-12.11,25.68,10.28,5.87,16.88,15.96,16.88,29.35" />
+            <path fill="#0076bb" d="M457.77,184.16h23.66v91.7h-23.66v-91.7ZM455.02,158.66c0-7.89,6.6-14.67,14.49-14.67s14.67,6.79,14.67,14.67-6.6,14.49-14.67,14.49-14.49-6.6-14.49-14.49" />
+            <path fill="#0076bb" d="M562.54,230.01c0-14.85-10.82-25.31-24.94-25.31s-24.76,10.46-24.76,25.31,10.82,25.31,24.76,25.31,24.94-10.46,24.94-25.31M489.18,230.01c0-27.33,21.46-48.42,48.42-48.42s48.6,21.09,48.6,48.42-21.64,48.42-48.6,48.42-48.42-21.09-48.42-48.42" />
+            <path fill="#172952" d="M592.62,211.67c0-37.6,27.88-66.76,66.76-66.76,23.48,0,44.2,11.92,55.2,30.26l-21.82,12.66c-6.24-11.37-18.71-18.34-33.38-18.34-25.13,0-41.63,17.42-41.63,42.19s16.51,42,41.63,42c14.67,0,27.33-6.97,33.38-18.16l21.82,12.66c-10.82,18.34-31.55,30.26-55.2,30.26-38.88,0-66.76-29.35-66.76-66.76" />
+            <path fill="#172952" d="M793.82,230.01c0-15.41-10.82-25.86-25.49-25.86s-25.31,10.46-25.31,25.86,10.82,25.86,25.31,25.86,25.49-10.46,25.49-25.86M817.49,184.16v91.7h-23.66v-10.82c-6.6,8.25-16.51,13.39-29.89,13.39-24.39,0-44.57-21.09-44.57-48.42s20.18-48.42,44.57-48.42c13.39,0,23.29,5.14,29.89,13.39v-10.82h23.66Z" />
+            <path fill="#172952" d="M865.17,206.9v38.15c0,9.9,7.15,10.09,20.73,9.35v21.46c-33.2,3.67-44.39-6.05-44.39-30.81v-38.15h-15.96v-22.74h15.96v-18.53l23.66-7.15v25.68h20.73v22.74h-20.73Z" />
+            <path fill="#172952" d="M889.57,230.01c0-27.33,20.54-48.42,48.42-48.42,17.97,0,33.56,9.54,41.08,23.66l-20.36,11.92c-3.67-7.52-11.56-12.29-20.91-12.29-14.12,0-24.57,10.45-24.57,25.13s10.45,24.94,24.57,24.94c9.54,0,17.43-4.58,21.09-12.1l20.54,11.74c-7.88,14.3-23.48,23.84-41.45,23.84-27.88,0-48.42-21.09-48.42-48.42" />
+            <path fill="#172952" d="M1072.06,219.55v56.31h-23.66v-53.37c0-12.47-7.52-18.89-18.16-18.89-11.56,0-20.17,6.78-20.17,22.74v49.52h-23.66v-128.39h23.66v46.95c5.5-8.25,15.04-12.84,27.33-12.84,19.44,0,34.66,13.57,34.66,37.96" />
+            <path fill="#172952" d="M147.26,218.56c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M147.26,195.61c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#0076bb" d="M185.43,179.75c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M185.43,156.8c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#172952" d="M146.54,141.15c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M146.54,118.21c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#172952" d="M185.43,257.37c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M185.43,234.42c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#0076bb" d="M148.26,294.53c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M148.26,271.59c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#172952" d="M301.86,218.56c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,195.61c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#0076bb" d="M301.86,141.15c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,118.21c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#172952" d="M301.86,293.49c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,270.54c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#172952" d="M278.83,253.56c.05-.2.13-.4.17-.61.2-1.01.3-2.05.29-3.12,0-.5-.04-.99-.09-1.47-.01-.13-.03-.27-.05-.4-.04-.32-.09-.64-.15-.95-.03-.18-.07-.35-.11-.53-.06-.27-.14-.53-.21-.79-.12-.41-.25-.82-.4-1.21-.05-.12-.09-.24-.14-.36-.04-.11-.08-.22-.13-.33-.08-.18-.18-.36-.27-.54-.03-.06-.06-.13-.1-.2-.77-1.55-1.78-2.95-3-4.15-.71-.69-1.48-1.32-2.31-1.87-2.48-1.64-5.47-2.59-8.67-2.56h0c-4.38-.54-8.01-2.11-12.35-6.13l-7.14-7.1c-2.58-2.57-3.77-6.1-3.7-9.74v-.14c0-.1,0-.2,0-.3h0c.53-4.37,2.1-8.01,6.12-12.35l7.1-7.14c2.56-2.58,6.1-3.77,9.74-3.7.13,0,.26,0,.39,0,.3,0,.59-.03.89-.06.12,0,.24,0,.36-.02.3-.03.59-.07.88-.11.15-.02.29-.04.44-.07.29-.05.58-.11.86-.17.11-.03.21-.06.32-.08.57-.15,1.12-.33,1.66-.53.1-.04.2-.07.3-.11.27-.11.52-.23.78-.35.13-.06.26-.13.39-.2.25-.13.5-.26.74-.4.1-.06.21-.13.31-.19,1.08-.66,2.08-1.44,2.96-2.34.08-.08.15-.18.22-.26.35-.37.68-.76.99-1.17.15-.19.29-.38.42-.57.3-.43.59-.88.85-1.34.08-.15.17-.31.25-.47.2-.38.38-.76.55-1.15.05-.13.09-.27.14-.39.08-.2.15-.4.21-.6.19-.57.36-1.15.48-1.75.01-.05.03-.1.04-.15.2-1.01.3-2.05.29-3.11h0v-.02s0-.05,0-.07c0-.44-.03-.88-.08-1.31-.02-.17-.04-.34-.06-.52-.04-.29-.08-.57-.14-.86-.04-.19-.07-.38-.11-.56-.07-.29-.15-.58-.23-.87-.09-.3-.19-.6-.29-.89-.08-.22-.16-.45-.25-.67-.03-.08-.06-.18-.1-.26-.06-.14-.14-.28-.2-.42-.08-.16-.16-.33-.24-.49-.12-.24-.25-.47-.38-.7-.06-.1-.13-.2-.19-.3-.67-1.09-1.45-2.1-2.36-2.98-.71-.69-1.48-1.32-2.31-1.87-2.48-1.65-5.47-2.6-8.67-2.57h0c-4.38-.54-8.01-2.11-12.35-6.13l-7.14-7.1c-2.58-2.57-3.77-6.1-3.7-9.74,0-.13,0-.26,0-.39-.04-4.27-1.81-8.12-4.64-10.9-2.12-2.08-4.84-3.56-7.86-4.15-1.01-.2-2.05-.3-3.11-.29-3.2.03-6.17,1.03-8.62,2.73-.82.56-1.58,1.2-2.27,1.91-1.39,1.41-2.51,3.09-3.27,4.95-.77,1.86-1.18,3.9-1.16,6.03.02,2.13.47,4.16,1.27,6.01.8,1.84,1.95,3.5,3.36,4.89.71.69,1.48,1.32,2.31,1.87,2.48,1.64,5.47,2.6,8.67,2.56h0c4.37.54,8.01,2.11,12.35,6.13l7.14,7.1c2.58,2.57,3.77,6.1,3.7,9.74v.1c0,.1,0,.2,0,.31h0c-.53,4.37-2.1,8.01-6.12,12.35l-7.1,7.14c-2.56,2.58-6.1,3.77-9.74,3.7-.13,0-.26,0-.39,0-4.27.04-8.12,1.81-10.89,4.64-.28.28-.52.6-.78.91-.09.11-.19.22-.28.33-.25.31-.49.64-.71.97-.13.2-.25.4-.37.6-.29.48-.56.97-.8,1.48-.11.23-.23.46-.33.7-.03.08-.06.16-.09.24-.11.28-.21.57-.3.86-.14.44-.26.88-.37,1.34-.03.15-.09.28-.12.43-.2,1.01-.3,2.05-.29,3.11v.05c0,.06,0,.12,0,.18.01.38.03.77.07,1.14.02.23.05.45.08.67.03.2.06.41.1.6.05.27.1.55.16.81.01.05.03.09.04.14.21.85.47,1.67.81,2.46.8,1.84,1.95,3.5,3.37,4.89.71.69,1.48,1.32,2.31,1.87,2.48,1.64,5.47,2.59,8.67,2.56h0c4.37.54,8.01,2.11,12.35,6.13l7.14,7.1c2.58,2.57,3.77,6.1,3.7,9.74,0,.12,0,.24,0,.37,0,.02,0,.04,0,.06h0c-.53,4.37-2.1,8-6.12,12.35l-7.1,7.14c-2.57,2.58-6.1,3.77-9.74,3.7-.13,0-.26,0-.39,0-4.27.04-8.12,1.81-10.89,4.64-2.08,2.12-3.56,4.84-4.15,7.86-.2,1.01-.3,2.05-.29,3.11.03,3.2,1.03,6.17,2.73,8.62.57.82,1.2,1.58,1.91,2.27,1.41,1.39,3.09,2.51,4.95,3.27s3.9,1.18,6.03,1.16c2.13-.02,4.16-.47,6.01-1.27,1.84-.8,3.5-1.95,4.89-3.37.69-.71,1.32-1.48,1.87-2.31,1.65-2.48,2.6-5.47,2.57-8.67h0c.53-4.37,2.1-8.01,6.12-12.35l7.1-7.14c2.56-2.58,6.1-3.77,9.74-3.7.13,0,.26,0,.39,0,4.26-.04,8.12-1.81,10.89-4.64.29-.3.55-.63.81-.96.07-.09.15-.17.22-.26.26-.33.51-.67.75-1.02.11-.15.2-.31.3-.47.34-.55.65-1.12.92-1.71.09-.19.19-.37.27-.57.03-.06.04-.13.07-.19.12-.32.24-.64.34-.96.12-.36.21-.73.3-1.11" />
+          </g>
+          <g>
+            <path fill="#172952" d="M368.74,382.46c-4.48,0-8.32-1.06-11.51-3.19-3.2-2.12-5.43-5.05-6.69-8.78l4.2-2.45c.89,3.03,2.52,5.4,4.9,7.1,2.38,1.7,5.44,2.56,9.17,2.56s6.47-.81,8.5-2.42,3.04-3.75,3.04-6.41-.93-4.5-2.8-5.81c-1.87-1.31-4.95-2.66-9.24-4.06-5.09-1.68-8.45-3.03-10.08-4.06-3.73-2.24-5.6-5.48-5.6-9.73s1.45-7.43,4.34-9.83c2.89-2.4,6.46-3.61,10.71-3.61,3.83,0,7.14.99,9.94,2.97,2.8,1.98,4.88,4.52,6.23,7.6l-4.13,2.31c-2.24-5.41-6.25-8.12-12.04-8.12-3.03,0-5.48.75-7.35,2.24-1.87,1.49-2.8,3.57-2.8,6.23,0,2.43.84,4.25,2.52,5.46,1.68,1.21,4.46,2.45,8.33,3.71,1.77.61,3.04,1.04,3.81,1.29.77.26,1.89.68,3.36,1.26,1.47.58,2.55,1.1,3.25,1.54.7.44,1.55,1.05,2.55,1.82,1,.77,1.73,1.54,2.17,2.31.44.77.84,1.7,1.19,2.8.35,1.1.52,2.28.52,3.54,0,4.15-1.52,7.48-4.55,9.97-3.03,2.5-7.02,3.75-11.97,3.75Z" />
+            <path fill="#172952" d="M410.46,351.1h-10.08v21.21c0,1.91.37,3.28,1.12,4.09.75.82,1.87,1.24,3.36,1.26,1.49.02,3.36-.01,5.6-.11v4.06c-4.9.75-8.58.4-11.03-1.05-2.45-1.45-3.67-4.2-3.67-8.26v-21.21h-7.35v-4.48h7.35v-8.4l4.62-1.4v9.8h10.08v4.48Z" />
+            <path fill="#172952" d="M446.16,346.62h4.62v35h-4.62v-6.86c-3.22,5.13-7.93,7.7-14.14,7.7-4.99,0-9.25-1.77-12.78-5.32-3.52-3.54-5.29-7.88-5.29-13.02s1.76-9.47,5.29-13.02c3.52-3.55,7.78-5.32,12.78-5.32,6.21,0,10.92,2.57,14.14,7.7v-6.86ZM422.57,373.96c2.66,2.68,5.93,4.02,9.8,4.02s7.14-1.34,9.8-4.02c2.66-2.68,3.99-5.96,3.99-9.83s-1.33-7.15-3.99-9.83c-2.66-2.68-5.93-4.02-9.8-4.02s-7.14,1.34-9.8,4.02c-2.66,2.68-3.99,5.96-3.99,9.83s1.33,7.15,3.99,9.83Z" />
+            <path fill="#172952" d="M485.78,346.62h4.9l-14.98,38.22c-1.35,3.45-3.28,6.17-5.77,8.16-2.5,1.98-5.28,2.86-8.36,2.62v-4.34c4.19.47,7.38-1.96,9.57-7.29l.89-2.26-15.64-35.11h4.9l13.1,29.08,11.4-29.08Z" />
+            <path fill="#172952" d="M529.88,382.46c-4.48,0-8.32-1.06-11.51-3.19-3.2-2.12-5.43-5.05-6.69-8.78l4.2-2.45c.89,3.03,2.52,5.4,4.9,7.1,2.38,1.7,5.44,2.56,9.17,2.56s6.47-.81,8.5-2.42,3.04-3.75,3.04-6.41-.93-4.5-2.8-5.81c-1.87-1.31-4.95-2.66-9.24-4.06-5.09-1.68-8.45-3.03-10.08-4.06-3.73-2.24-5.6-5.48-5.6-9.73s1.45-7.43,4.34-9.83c2.89-2.4,6.46-3.61,10.71-3.61,3.83,0,7.14.99,9.94,2.97,2.8,1.98,4.88,4.52,6.23,7.6l-4.13,2.31c-2.24-5.41-6.25-8.12-12.04-8.12-3.03,0-5.48.75-7.35,2.24-1.87,1.49-2.8,3.57-2.8,6.23,0,2.43.84,4.25,2.52,5.46,1.68,1.21,4.46,2.45,8.33,3.71,1.77.61,3.04,1.04,3.81,1.29.77.26,1.89.68,3.36,1.26,1.47.58,2.55,1.1,3.25,1.54.7.44,1.55,1.05,2.55,1.82,1,.77,1.73,1.54,2.17,2.31.44.77.84,1.7,1.19,2.8.35,1.1.52,2.28.52,3.54,0,4.15-1.52,7.48-4.55,9.97-3.03,2.5-7.02,3.75-11.97,3.75Z" />
+            <path fill="#172952" d="M584.9,346.62h4.62v35h-4.62v-6.86c-3.22,5.13-7.93,7.7-14.14,7.7-4.99,0-9.25-1.77-12.78-5.32-3.52-3.54-5.29-7.88-5.29-13.02s1.76-9.47,5.29-13.02c3.52-3.55,7.78-5.32,12.78-5.32,6.21,0,10.92,2.57,14.14,7.7v-6.86ZM561.31,373.96c2.66,2.68,5.93,4.02,9.8,4.02s7.14-1.34,9.8-4.02c2.66-2.68,3.99-5.96,3.99-9.83s-1.33-7.15-3.99-9.83c-2.66-2.68-5.93-4.02-9.8-4.02s-7.14,1.34-9.8,4.02c-2.66,2.68-3.99,5.96-3.99,9.83s1.33,7.15,3.99,9.83Z" />
+            <path fill="#172952" d="M616.82,336.26c-3.41-.28-5.94.3-7.6,1.75s-2.48,3.85-2.48,7.21v1.4h10.08v4.48h-10.08v30.52h-4.62v-30.52h-5.95v-4.48h5.95v-1.4c0-4.57,1.27-8.04,3.81-10.4,2.54-2.36,6.17-3.37,10.89-3.04v4.48Z" />
+            <path fill="#172952" d="M635.79,345.78c5.18,0,9.37,1.83,12.56,5.5,3.2,3.66,4.79,7.99,4.79,12.99,0,.51-.05,1.24-.14,2.17h-30.73c.47,3.55,1.97,6.36,4.52,8.43,2.54,2.08,5.68,3.11,9.42,3.11,2.66,0,4.96-.55,6.89-1.64,1.94-1.1,3.4-2.53,4.38-4.3l4.06,2.38c-1.54,2.47-3.64,4.43-6.3,5.88-2.66,1.45-5.69,2.17-9.1,2.17-5.51,0-9.99-1.73-13.44-5.18-3.45-3.45-5.18-7.84-5.18-13.16s1.7-9.59,5.11-13.09c3.41-3.5,7.79-5.25,13.16-5.25ZM635.79,350.26c-3.64,0-6.69,1.08-9.14,3.25-2.45,2.17-3.91,4.98-4.38,8.43h26.11c-.47-3.69-1.89-6.56-4.27-8.61-2.38-2.05-5.16-3.08-8.33-3.08Z" />
+            <path fill="#172952" d="M663.58,381.2c-.75.75-1.66,1.12-2.73,1.12s-1.98-.37-2.73-1.12c-.75-.75-1.12-1.66-1.12-2.73s.37-1.98,1.12-2.73,1.66-1.12,2.73-1.12,1.98.37,2.73,1.12c.75.75,1.12,1.66,1.12,2.73s-.37,1.98-1.12,2.73Z" />
+          </g>
+        </svg>
+        </a>
+      </div>
+
+
+    </div>
+
+    <div class="site-header__right">
+      <div class="site-header__main-menu site-header__main-menu--mega-menu">
+        
+
+        <ul>
+          
+          
+
+
+
+
+
+
+
+<li class="hs-menu-item hs-menu-depth-1 no-icon" role="menu">
+  <a href="https://www.biocatch.com/why-biocatch" aria-haspopup="false" role="menuitem">
+    
+    <span>
+      Why BioCatch
+    </span>
+    
+  </a>
+
+  
+</li>
+
+          
+          
+
+
+
+
+
+
+
+<li class="hs-menu-item hs-menu-depth-1 hs-item-has-children no-icon" role="menu">
+  <a href="#" aria-haspopup="true" role="menuitem" aria-expanded="false">
+    
+    <span>
+      Solutions
+    </span>
+    
+  </a>
+
+  
+  
+  
+  
+  
+
+  
+  <div class="hs-menu-wrapper-container mega-menu-container mega-menu-container-two  no-use-cases" tabindex="0">
+    <div class="hs-menu-wrapper-container-inner mega-menu-container-inner ">
+       
+
+      <!-- Only Links -->
+      
+      <div class="mega-menu__links-wrapper">
+        <h4 class="mega-menu__link-title">
+          Solutions
+        </h4>
+        <ul class="mega-menu__links-list">
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/account-opening-protection" data-label="account_opening_protection">Account Opening Protection
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/account-takeover-protection" data-label="account_takeover_protection">Account Takeover Protection
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/trust" data-label="biocatch_trust™">BioCatch Trust™
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/mule-account-detection" data-label="mule_account_detection">Mule Account Detection
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/social-engineering-scam-detection" data-label="social_engineering_scam_detection">Social Engineering Scam Detection
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Solutions, url=, children=Account Opening Protection, BioCatch Trust™, Strong Customer Authentication, Mule Account Detection, Account Takeover Protection, Social Engineering Scam Detection, activeBranch=false, activeNode=false, level=1, pageTitle=null, pageId=null, slug=null, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/strong-customer-authentication" data-label="strong_customer_authentication">Strong Customer Authentication
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+        </ul>
+      </div>
+      
+      <!-- End Only Links -->
+      <!-- Submenu -->
+      
+      <!-- End Submenu -->
+      
+    </div>
+  </div>
+  
+  
+</li>
+
+          
+          
+
+
+
+
+
+
+
+<li class="hs-menu-item hs-menu-depth-1 hs-item-has-children no-icon" role="menu">
+  <a href="#" aria-haspopup="true" role="menuitem" aria-expanded="false">
+    
+    <span>
+      BioCatch Connect
+    </span>
+    
+  </a>
+
+  
+  
+  
+  
+  
+
+  
+  <div class="hs-menu-wrapper-container mega-menu-container mega-menu-container-two  " tabindex="0">
+    <div class="hs-menu-wrapper-container-inner mega-menu-container-inner mega-menu-container-inner--alt">
+       
+
+      <!-- Only Links -->
+      
+      <!-- End Only Links -->
+      <!-- Submenu -->
+      
+      <div class="mega-menu__link-rich-content" data-target="class">
+        <!-- href="item.url ? item.url : 'javascript:void(0);'" -->
+        <h3 class="submenu__title">
+          BioCatch Connect
+        </h3>
+        <div class="mega-menu__link-content-links dynamic-content-wrapper wrapper-invisible ">
+          
+          <div class="child-item-link">
+            <a class="child-item__title" href="https://www.biocatch.com/biocatch-connect">Connect</a>
+            
+            <div class="child-item__content">
+              
+            </div>
+          </div>
+          
+          <div class="child-item-link">
+            <a class="child-item__title" href="https://www.biocatch.com/biocatch-connect/predictive-intelligence">Predictive Intelligence</a>
+            
+            <div class="child-item__content">
+              
+            </div>
+          </div>
+          
+        </div>
+      </div>
+      <!-- Right Column -->
+      <div class="mega-menu__link-right-column" data-target="tag">
+        <h3>Frameworks</h3>
+<p><a href="https://www.biocatch.com/account-opening-protection" rel="noopener">Account Opening Protection</a></p>
+<p><a href="https://www.biocatch.com/account-takeover-protection" rel="noopener">Account Takeover Protection</a></p>
+<p><a href="https://www.biocatch.com/social-engineering-scam-detection" rel="noopener">Social Engineering Scams Detection</a></p>
+<p><a href="https://www.biocatch.com/mule-account-detection" rel="noopener">Mules Account Detection</a></p>
+<p><a href="https://www.biocatch.com/strong-customer-authentication" rel="noopener">Strong Customer Authentication</a></p>
+      </div>
+      <!-- End Right Column -->
+      
+      <!-- End Submenu -->
+      
+    </div>
+  </div>
+  
+  
+</li>
+
+          
+          
+
+
+
+
+
+
+
+<li class="hs-menu-item hs-menu-depth-1 hs-item-has-children no-icon" role="menu">
+  <a href="#" aria-haspopup="true" role="menuitem" aria-expanded="false">
+    
+    <span>
+      Resources
+    </span>
+    
+  </a>
+
+  
+  
+  
+  
+  
+
+  
+  <div class="hs-menu-wrapper-container mega-menu-container mega-menu-container-two only-links no-use-cases" tabindex="0">
+    <div class="hs-menu-wrapper-container-inner mega-menu-container-inner ">
+       
+
+      <!-- Only Links -->
+      
+      <div class="mega-menu__links-wrapper">
+        <h4 class="mega-menu__link-title">
+          Resources
+        </h4>
+        <ul class="mega-menu__links-list">
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=analyst-research" data-label="analyst_research">Analyst Research
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=case-study" data-label="case_studies">Case Studies
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=data-sheet" data-label="data_sheets">Data Sheets
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/events-page" data-label="events">Events
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=reports" data-label="reports">Reports
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=solution-brief" data-label="solution_briefs">Solution Briefs
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=white-paper" data-label="white_papers">White Papers
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=webinar" data-label="webinars">Webinars
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Resources, url=https://www.biocatch.com/resources, children=Analyst Research, Data Sheets, Solution Briefs, Events, Case Studies, White Papers, Webinars, Reports, Videos, activeBranch=false, activeNode=false, level=1, pageTitle=Resources, pageId=41707313286, slug=resources, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/resources?type=video" data-label="videos">Videos
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+        </ul>
+      </div>
+      
+      <!-- End Only Links -->
+      <!-- Submenu -->
+      
+      <!-- End Submenu -->
+      
+    </div>
+  </div>
+  
+  
+</li>
+
+          
+          
+
+
+
+
+
+
+
+<li class="hs-menu-item hs-menu-depth-1 hs-item-has-children no-icon" role="menu">
+  <a href="#" aria-haspopup="true" role="menuitem" aria-expanded="false">
+    
+    <span>
+      Company
+    </span>
+    
+  </a>
+
+  
+  
+  
+  
+  
+
+  
+  <div class="hs-menu-wrapper-container mega-menu-container mega-menu-container-two only-links no-use-cases" tabindex="0">
+    <div class="hs-menu-wrapper-container-inner mega-menu-container-inner ">
+       
+
+      <!-- Only Links -->
+      
+      <div class="mega-menu__links-wrapper">
+        <h4 class="mega-menu__link-title">
+          Company
+        </h4>
+        <ul class="mega-menu__links-list">
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/company" data-label="about_us">About Us
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/meet-the-team" data-label="meet_the_team">Meet the Team
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/news" data-label="news_&amp;_press">News &amp; Press
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/cybersecurity-careers" data-label="careers">Careers
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/client-innovation-board" data-label="client_innovation_board">Client Innovation Board
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/collaboration/together-we-fight-fraud" data-label="customers">Customers
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+          <script>console.log('PageTreeNode{label=Company, url=https://www.biocatch.com/company, children=Partners, Customers, Meet the Team, Careers, Client Innovation Board, News & Press, About Us, activeBranch=false, activeNode=false, level=1, pageTitle=Company, pageId=42315249278, slug=company, linkTarget=null} ' )</script>
+          
+          <li class="none ">
+            <a href="https://www.biocatch.com/partners" data-label="partners">Partners
+              <svg width="24" height="24" viewbox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <g id="Icon">
+                  <path id="Vector" d="M14.8297 11.2899L10.5897 7.04995C10.4967 6.95622 10.3861 6.88183 10.2643 6.83106C10.1424 6.78029 10.0117 6.75415 9.8797 6.75415C9.74769 6.75415 9.61698 6.78029 9.49512 6.83106C9.37326 6.88183 9.26266 6.95622 9.1697 7.04995C8.98345 7.23731 8.87891 7.49076 8.87891 7.75495C8.87891 8.01913 8.98345 8.27259 9.1697 8.45995L12.7097 11.9999L9.1697 15.5399C8.98345 15.7273 8.87891 15.9808 8.87891 16.2449C8.87891 16.5091 8.98345 16.7626 9.1697 16.9499C9.26314 17.0426 9.37395 17.116 9.49579 17.1657C9.61763 17.2155 9.74809 17.2407 9.8797 17.2399C10.0113 17.2407 10.1418 17.2155 10.2636 17.1657C10.3854 17.116 10.4963 17.0426 10.5897 16.9499L14.8297 12.7099C14.9234 12.617 14.9978 12.5064 15.0486 12.3845C15.0994 12.2627 15.1255 12.132 15.1255 11.9999C15.1255 11.8679 15.0994 11.7372 15.0486 11.6154C14.9978 11.4935 14.9234 11.3829 14.8297 11.2899Z" fill="white" />
+                </g>
+              </svg>
+            </a>
+
+            
+
+
+          </li>
+          
+        </ul>
+      </div>
+      
+      <!-- End Only Links -->
+      <!-- Submenu -->
+      
+      <!-- End Submenu -->
+      
+    </div>
+  </div>
+  
+  
+</li>
+
+          
+        </ul>
+      </div>
+      <div class="site-header__secondary-menu right_menu">
+        <div id="hs_menu_wrapper_module_site_header_dev_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="MJTW Header Secondary Menu Dev" data-menu-id="122885917462" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.biocatch.com/blog" role="menuitem">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://www.biocatch.com/blog" role="menuitem">Support</a></li>
+ </ul>
+</div>
+        <!--<div class="header--contact">
+          <a href="https://www.biocatch.com/ai-fraud-financial-crime-survey" class="cta_button cta-btn cta-btn--secondary-fill">View AI & FinCrime Report</a>
+        </div>-->
+      </div>
+ 
+      <div class="site-header__functions-menu">
+        <div>
+          <ul>
+            <li class="hs-menu-item hs-menu-depth-1 search">
+              <a href="javascript:;" role="menuitem" class="search-link">
+                <span class="site-header__search-icon site-header__search-icon--open">
+                  <svg width="14" height="18" viewbox="0 0 14 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.93408 9.97298C2.21301 9.97298 0 7.75898 0 5.03898C0 2.31798 2.21301 0.10498 4.93408 0.10498C7.65405 0.10498 9.86804 2.31798 9.86804 5.03898C9.86804 7.75898 7.65405 9.97298 4.93408 9.97298ZM4.93408 1.34198C2.89502 1.34198 1.23706 2.99998 1.23706 5.03898C1.23706 7.07698 2.89502 8.73598 4.93408 8.73598C6.97204 8.73598 8.63098 7.07698 8.63098 5.03898C8.63098 2.99998 6.97204 1.34198 4.93408 1.34198Z" fill="black" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86376 12.2967C8.65478 12.2967 8.44982 12.1897 8.33373 11.9967L6.72277 9.32565C6.54674 9.03265 6.64074 8.65265 6.93273 8.47665C7.22582 8.30065 7.60473 8.39465 7.78173 8.68665L9.39281 11.3587C9.56981 11.6507 9.47582 12.0307 9.18273 12.2077C9.08275 12.2677 8.97277 12.2967 8.86376 12.2967Z" fill="black" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1598 17.8948C10.9468 17.8948 10.7388 17.7838 10.6238 17.5858L7.57873 12.3118C7.49682 12.1698 7.47473 12.0008 7.51684 11.8428C7.55981 11.6838 7.66381 11.5488 7.80578 11.4668L9.32678 10.5888C9.62182 10.4178 10.0007 10.5198 10.1708 10.8148L13.2168 16.0898C13.2988 16.2318 13.3208 16.3998 13.2778 16.5588C13.2358 16.7168 13.1318 16.8518 12.9897 16.9338L11.4687 17.8118C11.3718 17.8688 11.2648 17.8948 11.1598 17.8948ZM8.95873 12.2288L11.3857 16.4318L11.8358 16.1718L9.40977 11.9688L8.95873 12.2288Z" fill="black" />
+                  </svg>
+                </span>
+                <span class="site-header__search-icon site-header__search-icon--close">
+                  <svg width="14" height="18" viewbox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M4.93408 9.97298C2.21301 9.97298 0 7.75898 0 5.03898C0 2.31798 2.21301 0.10498 4.93408 0.10498C7.65405 0.10498 9.86804 2.31798 9.86804 5.03898C9.86804 7.75898 7.65405 9.97298 4.93408 9.97298ZM4.93408 1.34198C2.89502 1.34198 1.23706 2.99998 1.23706 5.03898C1.23706 7.07698 2.89502 8.73598 4.93408 8.73598C6.97204 8.73598 8.63098 7.07698 8.63098 5.03898C8.63098 2.99998 6.97204 1.34198 4.93408 1.34198Z" fill="black" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86376 12.2967C8.65478 12.2967 8.44982 12.1897 8.33373 11.9967L6.72277 9.32565C6.54674 9.03265 6.64074 8.65265 6.93273 8.47665C7.22582 8.30065 7.60473 8.39465 7.78173 8.68665L9.39281 11.3587C9.56981 11.6507 9.47582 12.0307 9.18273 12.2077C9.08275 12.2677 8.97277 12.2967 8.86376 12.2967Z" fill="black" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1598 17.8948C10.9468 17.8948 10.7388 17.7838 10.6238 17.5858L7.57873 12.3118C7.49682 12.1698 7.47473 12.0008 7.51684 11.8428C7.55981 11.6838 7.66381 11.5488 7.80578 11.4668L9.32678 10.5888C9.62182 10.4178 10.0007 10.5198 10.1708 10.8148L13.2168 16.0898C13.2988 16.2318 13.3208 16.3998 13.2778 16.5588C13.2358 16.7168 13.1318 16.8518 12.9897 16.9338L11.4687 17.8118C11.3718 17.8688 11.2648 17.8948 11.1598 17.8948ZM8.95873 12.2288L11.3857 16.4318L11.8358 16.1718L9.40977 11.9688L8.95873 12.2288Z" fill="black" />
+                  </svg>
+                </span>
+              </a>
+              <form class="site-header__search-form" action="/hs-search-results">
+                <input type="search" placeholder="What are you looking for?" name="term">
+                <button class="site-header__search-form-button" aria-label="Search" title="Search">
+                  <span class="site-header__search-form-button-label">Search</span>
+                  <span class="site-header__search-form-button-icon">
+                    <svg width="14" height="18" viewbox="0 0 14 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M4.93408 9.97298C2.21301 9.97298 0 7.75898 0 5.03898C0 2.31798 2.21301 0.10498 4.93408 0.10498C7.65405 0.10498 9.86804 2.31798 9.86804 5.03898C9.86804 7.75898 7.65405 9.97298 4.93408 9.97298ZM4.93408 1.34198C2.89502 1.34198 1.23706 2.99998 1.23706 5.03898C1.23706 7.07698 2.89502 8.73598 4.93408 8.73598C6.97204 8.73598 8.63098 7.07698 8.63098 5.03898C8.63098 2.99998 6.97204 1.34198 4.93408 1.34198Z" fill="black" />
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M8.86376 12.2967C8.65478 12.2967 8.44982 12.1897 8.33373 11.9967L6.72277 9.32565C6.54674 9.03265 6.64074 8.65265 6.93273 8.47665C7.22582 8.30065 7.60473 8.39465 7.78173 8.68665L9.39281 11.3587C9.56981 11.6507 9.47582 12.0307 9.18273 12.2077C9.08275 12.2677 8.97277 12.2967 8.86376 12.2967Z" fill="black" />
+                      <path fill-rule="evenodd" clip-rule="evenodd" d="M11.1598 17.8948C10.9468 17.8948 10.7388 17.7838 10.6238 17.5858L7.57873 12.3118C7.49682 12.1698 7.47473 12.0008 7.51684 11.8428C7.55981 11.6838 7.66381 11.5488 7.80578 11.4668L9.32678 10.5888C9.62182 10.4178 10.0007 10.5198 10.1708 10.8148L13.2168 16.0898C13.2988 16.2318 13.3208 16.3998 13.2778 16.5588C13.2358 16.7168 13.1318 16.8518 12.9897 16.9338L11.4687 17.8118C11.3718 17.8688 11.2648 17.8948 11.1598 17.8948ZM8.95873 12.2288L11.3857 16.4318L11.8358 16.1718L9.40977 11.9688L8.95873 12.2288Z" fill="black" />
+                    </svg>
+                  </span>
+                </button>
+              </form>
+            </li>
+            <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" data-language="en-us">
+              
+
+
+              <div class="menu-language-selector">
+                <span tabindex="0" role="button" class="menu-language__trigger">
+                  <svg width="19" height="20" viewbox="0 0 19 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.64966 18.3503C14.2614 18.3503 18 14.6118 18 10C18 5.38823 14.2614 1.64966 9.64966 1.64966C5.03789 1.64966 1.29932 5.38823 1.29932 10C1.29932 14.6118 5.03789 18.3503 9.64966 18.3503Z" stroke="black" stroke-width="1.38079" stroke-linecap="round" stroke-linejoin="round" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.6497 18.3503C12.0103 18.3503 13.9239 14.6118 13.9239 10C13.9239 5.38823 12.0103 1.64966 9.6497 1.64966C7.28912 1.64966 5.37549 5.38823 5.37549 10C5.37549 14.6118 7.28912 18.3503 9.6497 18.3503Z" stroke="black" stroke-width="1.38079" stroke-linecap="round" stroke-linejoin="round" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.6499 1.64966V18.3503V1.64966Z" stroke="black" stroke-width="1.38079" stroke-linecap="round" stroke-linejoin="round" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.73352 7.80591H17.5161H1.73352Z" stroke="black" stroke-width="1.38079" stroke-linecap="round" stroke-linejoin="round" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M1.73352 12.4436H17.5161H1.73352Z" stroke="black" stroke-width="1.38079" stroke-linecap="round" stroke-linejoin="round" />
+                  </svg>
+                </span>
+                <div class="language-menu__wrapper">
+                  <ul class="language-menu">
+                    <li><a href="https://www.biocatch.com/">English</a></li>
+                    <li><a href="https://www.biocatch.com/es">Español</a></li>
+                    <li><a href="https://www.biocatch.com/pt">Português</a></li>
+                    <li><a href="https://www.biocatch.com/it">Italiano</a></li>
+                    <li><a href="https://www.biocatch.com/de">Deutsch</a></li>
+                    <li><a href="https://www.biocatch.com/fr">Français</a></li>
+                    <li><a href="https://www.biocatch.com/th">แบบไทย</a></li>
+                    <li><a href="https://www.biocatch.com/jp">日本語 </a></li>
+                  </ul>
+                </div>
+              </div>
+
+
+              <div class="menu-trigger__container">
+                <button class="menu-trigger__button" id="mobile-menu-toggle" aria-expanded="false" aria-controls="mobile-menu">
+                  <div class="inner">
+                    <span class="menu-trigger__label">Menu</span>
+                    <span class="menu-trigger__icon"></span>
+                  </div>
+                </button>
+              </div>
+        </li></ul></div>
+      </div>
+</div></div></header></div>
+      
+      
+      
+  
+  <main class="body-container-wrapper">
+    <div class="blog-listing__billboard blog-listing__billboard--no-featured-post">
+      <div class="blog-listing__billboard-inner">
+        <div class="blog-listing__billboard-header">
+          <div class="blog-listing__billboard-header-column">
+            <h1 class="h3" style="padding-right: 5px;">BioCatch blog channel</h1>
+            
+            <div class="blog-listing__billboard-topics-dropdown">
+              <a class="cta-btn cta-btn--white-fill cta-btn--medium cta-btn--chevron" href="#">Browse topics</a>
+              <ul tabindex="0">
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/social-engineering-scams">Social engineering scams</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/fraud-prevention">Fraud Prevention</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/fraud">Fraud</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/money-mules">Money Mules</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/mule-accounts">Mule Accounts</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/authorized-push-payment-scams">Authorized push payment scams</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/behavioral-intelligence">Behavioral intelligence</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/payments">Payments</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/account-takeover">Account takeover</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/social-engineering">Social Engineering</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/new-account-fraud">New Account Fraud</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/authentication">Authentication</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/financial-crime">Financial crime</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/fraud-detection">Fraud Detection</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/impersonation-scams">Impersonation Scams</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/anti-money-laundering">Anti-money laundering</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/featured">Featured</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/banking-financial-services">Banking / Financial services</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/continuous-authentication">Continuous authentication</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/malware">Malware</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/roi">ROI</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/ai">AI</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/authorised-push-payment-fraud">Authorised push payment fraud</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/biocatch-team">BioCatch Team</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/connect-buenos-aires">Connect Buenos Aires</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/connect-europe-2025">Connect Europe 2025</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/connect-london-24">Connect London 24</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/connect-ny">Connect NY</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/authorised-push-payment-scams">authorised push payment scams</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/community">Community</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/continuous-protection">Continuous Protection</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/identity-proofing">Identity Proofing</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/investment-scams">investment scams</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/cybersecurity">Cybersecurity</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/account-opening-experience">account opening experience</a>
+                </li>
+                
+              </ul>
+            </div>
+          </div>
+          <!-- <div class="blog-listing__billboard-header-column">
+          <h2 class="h5">Get the latest blog posts in your inbox.</h2>
+          <a class="cta-btn cta-btn--fuschia-fill cta-btn--medium subscribe-btn" href="#">Subscribe</a>
+          <div class="blog-listing__subscribe-box">
+            <button class="blog-listing__subscribe-box__close-button" title="Close" aria-label="Close">
+              <span class="blog-listing__subscribe-box__close-button-label">
+                Close
+              </span>
+              <span class="blog-listing__subscribe-box__close-button-icon">
+                <svg width="12" height="12" viewBox="0 0 9 9" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M7.34192 0.541656L4.49984 3.38374L1.65775 0.541656L0.541504 1.65791L3.38359 4.49999L0.541504 7.34207L1.65775 8.45832L4.49984 5.61624L7.34192 8.45832L8.45817 7.34207L5.61609 4.49999L8.45817 1.65791L7.34192 0.541656Z" fill="#000022"/>
+                </svg>
+              </span>
+            </button>
+            
+            <span id="hs_cos_wrapper_blog_subscribe_form" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_subscribe" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_subscribe" ><h3 id="hs_cos_wrapper_blog_subscribe_form_title" class="hs_cos_wrapper form-title" data-hs-cos-general-type="widget_field" data-hs-cos-type="text"></h3>
+
+<div id='hs_form_target_blog_subscribe_form_5096'></div>
+
+
+
+</span>
+          </div>
+        </div>         -->
+        </div>
+
+        <div class="blog-listing__billboard-title">
+          
+
+                  
+        </div>
+
+        
+
+        
+        <div class="blog-listing__billboard-single-post-header">
+          <div class="blog-listing__billboard-single-post-header-column">
+            <h1 itemprop="headline"><span id="hs_cos_wrapper_name" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="text">Types of Social Engineering Attacks: Detecting the Latest Scams</span></h1>
+
+            <div class="blog-listing__billboard-author">
+                            
+              <div class="blog-listing__billboard-author-column">
+                <p>Written by:</p>
+                <p><a href="https://www.biocatch.com/blog/author/james-nicholas">James Nicholas</a></p>
+              </div>              
+            </div>
+
+            
+            <div class="blog-listing__billboard-topics">
+              <ul>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/fraud">Fraud</a>
+                </li>
+                
+                <li>
+                  <a href="https://www.biocatch.com/blog/topic/social-engineering">Social Engineering</a>
+                </li>
+                
+              </ul>
+            </div>
+            
+          </div>
+          <div class="blog-listing__billboard-single-post-header-column">
+            <div class="blog-listing__billboard-image">
+              <img src="https://www.biocatch.com/hubfs/iStock-623762322.jpg" alt="Types of Social Engineering Attacks: Detecting the Latest Scams featured image">
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="page page--sheet primary-content-container primary-content-container--padding-medium">
+
+      
+
+      
+      <div class="blog-post__content">
+        <article itemscope itemtype="http://schema.org/BlogPosting">
+          <meta itemprop="inLanguage" content="en-US">
+
+          <div class="blog-post__body" itemprop="articleBody">
+            <div class="blog-post__social-icons-top">
+              <div id="hs_cos_wrapper_module_15827335146054" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="share-icons module  module--padding-medium  module--bg-transparent  module--on-light">
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-center constrain--12">
+        <ul class="share-icons__list share-icons__list--left">
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="facebook" title="Share on Facebook" target="_blank">
+                <svg class="share-icons__list-icon" height="21" width="10" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 15" role="img" aria-labelledby="socialFacebook">
+                  <title id="socialFacebook">Facebook</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M0 4.96h1.71V3.45c0-.66.02-1.69.56-2.32C2.83.46 3.6 0 4.93 0 7.09 0 8 .28 8 .28l-.43 2.3s-.71-.19-1.38-.19c-.67 0-1.26.22-1.26.82v1.75h2.73L7.47 7.2H4.93V15H1.71V7.2H0V4.96" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://twitter.com/intent/tweet?text=Types+of+Social+Engineering+Scams+%5BUpdated+2022+Guide%5D%20https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="twitter" title="Tweet on Twitter" target="_blank">
+                <svg class="share-icons__list-icon" height="17" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 14" role="img" aria-labelledby="socialTwitter">
+                  <title id="socialTwitter">Twitter</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M17 1.66c-.62.28-1.3.47-2 .55.72-.43 1.27-1.13 1.53-1.95-.67.4-1.42.7-2.22.86C13.68.43 12.77 0 11.77 0 9.84 0 8.28 1.58 8.28 3.53c0 .28.03.55.09.81C5.47 4.19 2.9 2.79 1.18.65c-.3.52-.47 1.13-.47 1.77 0 1.23.62 2.31 1.55 2.95-.57-.02-1.11-.18-1.58-.45v.05c0 1.71 1.2 3.14 2.8 3.46-.29.09-.6.13-.92.13-.22 0-.44-.02-.65-.06.44 1.4 1.73 2.42 3.25 2.45-1.19.95-2.69 1.51-4.33 1.51-.28 0-.56-.01-.83-.05 1.54 1 3.38 1.59 5.35 1.59 6.41 0 9.92-5.38 9.92-10.06 0-.15 0-.3-.01-.45.68-.5 1.27-1.12 1.74-1.83" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks&amp;title=Types%20of%20Social%20Engineering%20Attacks%3A%20Detecting%20the%20Latest%20Scams&amp;summary=Learn+about+social+engineering+attacks%2C+specifically+ones+aimed+at+the+customers+of+financial+organizations%2C+and+how+to+defend+against+them.&amp;source=" data-type="linkedin" title="Share on LinkedIn" target="_blank">
+                <svg class="share-icons__list-icon" height="19" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 15" role="img" aria-labelledby="socialLinkedIn">
+                    <title id="socialLinkedIn">LinkedIn</title>
+                    <path fill="#FFFFFF" fill-rule="evenodd" d="M16 15h-3.54V9.73c0-1.38-.55-2.33-1.77-2.33-.93 0-1.44.64-1.68 1.25-.09.22-.08.53-.08.84V15h-3.5s.04-9.34 0-10.19h3.5v1.6c.21-.7 1.33-1.7 3.11-1.7 2.22 0 3.96 1.47 3.96 4.62V15zM1.88 3.53h-.02C.73 3.53 0 2.76 0 1.77 0 .76.75 0 1.9 0c1.16 0 1.86.76 1.89 1.77 0 .98-.73 1.76-1.91 1.76zM.4 4.81h3.12V15H.4V4.81zm0 0" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="mailto:?subject=Types%20of%20Social%20Engineering%20Attacks%3A%20Detecting%20the%20Latest%20Scams&amp;body=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="email" title="Email">
+                <svg class="share-icons__list-icon" height="16" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 18 13" role="img" aria-labelledby="socialEmail">
+                  <title id="socialEmail">Email</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M1.65 11.77c-.3 0-.55-.27-.55-.61V1.87l7.26 6.49c.02.02.03.04.05.06.1.12.25.18.39.18s.29-.06.39-.18c.02-.02.03-.04.05-.06l7.26-6.49v9.29c0 .34-.25.61-.55.61H1.65zM15.49 1.23L8.8 7.21 2.11 1.23h13.38zM17.44.18c-.12-.15-.29-.2-.46-.17H.62C.45-.02.28.03.16.18.05.3 0 .45 0 .61v11.78c0 .34.25.61.55.61h16.5c.3 0 .55-.27.55-.61V.62c0-.17-.05-.32-.16-.44zm0 0" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+            </div>
+
+            <span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Social engineering has been one of the largest threats to an organization’s cybersecurity for some time. Unlike threat actors that use ransomware or zero day exploits, a good social engineer doesn’t need technical skills to succeed. </span></p>
+<!--more-->
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Because social engineering scams are relatively simple to execute, and lucrative, there has been a notable jump in attacks over the past several years. <a href="/blog/making-the-business-case-for-fraud-prevention-a-practitioners-perspective" rel="noopener" target="_blank"><span style="color: #1155cc;">Social engineering scams</span></a><a href="https://www.biocatch.com/blog/making-the-business-case-for-fraud-prevention-a-practitioners-perspective"><span style="color: #1155cc;"> went up by 57%</span></a> in 2021, <a href="/blog/making-the-business-case-for-fraud-prevention-a-practitioners-perspective" rel="noopener" target="_blank"><span style="color: windowtext; text-decoration: none;">according to BioCatch data,</span></a> and one out of every three impersonation scams involved a payment over $1,000 USD.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Customers at financial institutions are often the target of social engineering scams. The damage done by these scams is difficult to gauge in figures alone — individual customers <a href="https://mothership.sg/2022/01/ocbc-scam-victims/" rel="noopener" target="_blank">stand to lose their life savings</a>, but the financial institution that they do business with can incur reputational damage as a result. A customer who gets scammed and finds that their financial organization has no recourse for them is likely to seek out a new bank, for example. In a <a href="/resources/analyst-report/on-the-precipice-of-the-scampocalypse?hsLang=en" rel="noopener" target="_blank"><span style="color: #1155cc;">2021 study by Aite-Novarica,</span></a> 61% of fraud executives said that social engineering credential, OTP, or PII harvesting scams had a significant influence on consumer digital attack volume at their financial institution.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>How should organizations respond to this crisis? Here’s a look at common types of social engineering attacks and how financial institutions are finding ways to detect social engineering in real-time.</span></p>
+<h2>What Is Social Engineering?</h2>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>In social engineering attacks, scammers impersonate trusted officials, like customer service representatives at a bank, to con unsuspecting victims out of millions of dollars every year. The “engineering” part doesn’t have to be technical in these types of attacks, which is part of what makes them such a pervasive threat. By pretending to be someone else, scammers aim to trick a person into giving them information that they shouldn’t. A social engineer doesn’t need to crack your password. Instead, they try to get you to give it to them over the phone by claiming there’s something wrong with your account, and that they’re here to help. </span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>According to <a href="https://www.ic3.gov/Media/PDF/AnnualReport/2021_IC3Report.pdf" rel="noopener" target="_blank"><span style="color: #1155cc;">the FBI's 2021 Internet Crime Report</span></a>, 323,972 individuals reported being a victim of one of several types of social engineering attacks, resulting in nearly $45 million in losses. And that’s only reported scams — true numbers are estimated to be exponentially higher as many victims fail to report incidents out of shame or embarrassment. In particular, business email compromise attacks (BEC) took a staggering toll. Since 2016, these attacks <a href="https://www.techrepublic.com/article/fbi-43-billion-losses-are-business-email-compromise-fraud-between-2016-2021/" rel="noopener" target="_blank">have resulted in over $43 billion in losses</a>.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>The most prevalent social engineering scams take place over the phone or through malicious links in emails. Well-crafted schemes carry all the signs of legitimacy, using personal details collected from the dark web or even from social media to catch even the most careful individuals off-guard. Though the spotlight has been on how fraudsters use stolen data for account originations, data breaches also give social engineers more personal information to exploit in a social engineering attack, improving their ability to target individuals and commit fraud in the digital age. </span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>The more specific an attacker makes their scam, the harder it is to see through it. You can roll your eyes at the emails in your spam folder saying you’ve won a cruise, but you have to take a long look at the sender’s address before you write off a message claiming to have been sent by your boss.</span></p>
+<h2>Types of Social Engineering Attacks</h2>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>There are two main types of social engineering attacks. The first type is credential or personal information harvesting, designed to steal sensitive information from the user for the purpose of selling this information on the dark web to be later used for account creation or account takeover. Examples are phishing, vishing, and smishing. </span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>The second type of social engineering attack, which is more sophisticated, involves coercing the user to defraud themselves in real time via a phone scam. Examples include impersonation scams, remote access tool (RAT) attacks, and <a href="/blog/app-scams-fraud-director" rel="noopener">Authorized Push Payment (APP) scams</a>. These attacks pose significant risk to businesses worldwide, including banks and insurance companies.</span></p>
+<h3><span>Credential and Personal Information Harvesting</span></h3>
+<h4><span>Phishing</span></h4>
+<p><span>Phishing is the most common form of social engineering attack. In a phishing attack, fraudsters disguise false communications to appear as though they are coming from a legitimate source but instead direct victims to a phishing website which often contains a domain similar in name and appearance to an official website. Once on the site, individuals are tricked into providing sensitive data&nbsp;such as PII, banking details and passwords. When fraudsters obtain this sensitive data, it can lead to much bigger problems down the line such as scams, payment fraud, and SIM swaps.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Today, fraudsters are developing targeted attacks specifically designed to manipulate and trick a particular group of users rather than the large, bulk email attacks of the past. These attacks, often called spear phishing, is a variation of phishing that’s distinguished by how deliberate it is. It is a tactic commonly used in the case of <a href="https://www.forbes.com/sites/forbestechcouncil/2022/05/18/beware-the-tactics-used-for-ceo-fraud-by-bec-scammers/?sh=49e9024678c7" rel="noopener" target="_blank">business email compromise</a>, often targeting CEOs or finance and HR professionals.</span></p>
+<h4><span>Vishing</span></h4>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Vishing, or phone-based phishing, is a common type of credential or personal information harvesting. Scammers often impersonate the IRS or another government agency, an IT or <a href="https://docs.microsoft.com/en-us/microsoft-365/security/intelligence/support-scams?view=o365-worldwide" rel="noopener" target="_blank">tech support professional</a>, or <a href="https://www.aarp.org/money/scams-fraud/info-2021/car-warranty.html" rel="noopener" target="_blank">car warranty company</a>. The scammer will claim that something is wrong or expired with an account and will ask for information to verify the account and additional information to be able to fix the situation.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Some scammers use positive psychology, informing the victim that they have won a vacation or some other good news, asking them to provide personal information to be able to receive the prize. In the United States, the Federal Trade Commission reported that 77% of its fraud complaints involve contacts by telephone, of which social engineering is a subset.</span></p>
+<h4><span>Smishing</span></h4>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Smishing, or <a href="/blog/types-social-engineering-attacks" rel="noopener">SMS phishing</a>, is an emerging form of social engineering attack that fraudsters are using to <a href="/blog/the-true-cost-of-sms-phishing-is-more-than-fraud-losses" rel="noopener" target="_blank">target victims on their smartphones</a>. In smishing, fraudsters use text messaging to trick users into giving out confidential information or to download malware or a virus onto their phone. Fraudsters are also using smishing to bypass two-factor authentication and multi-factor authentication (MFA). <a href="https://www.itpro.com/security/scams/360873/smishing-attacks-increase-700-percent-2021" rel="noopener" target="_blank"><span style="color: #0076bb;">Smishing has increased significantly</span></a><span style="color: #403f5a;">&nbsp;across the globe and&nbsp;</span><a href="https://www.npr.org/2021/10/19/1047303425/complaints-about-spam-texts-fcc-robocalls" rel="noopener" target="_blank"><span style="color: #0076bb;">complaints about SMS spam</span></a><span style="color: #403f5a;">&nbsp;increased over 140% last year.</span></span></p>
+<h3 style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Real-Time Social Engineering Scams</span></h3>
+<h4><span>Voice Scams</span></h4>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>In this form of social engineering scam, fraudsters represent themselves as legitimate representatives of a bank or other organization in order to trick users into making a transaction or money transfer. These are not technical-based attacks. Social engineers rely on elaborate and very clever scripts to gain people’s confidence and trust so they willingly disclose confidential information. After convincing a victim of the urgent need to move funds, the victim then logs into their account. Under the guidance of the fraudster, the user initiates a transfer, following instructions to enter details like payee, payment amount, and more. Once complete, the victim completes a fully authorized transfer that goes undetected by fraud tools. Once sent to the scammer’s account, funds are nearly always irretrievable.</span></p>
+<h4><span>Remote Access Tools (RAT) Attacks</span></h4>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>In this form of social engineering, the scammer will convince the user to install a remote access tool to allow the scammer to take control of their device and act on their behalf. For example, the scammer will pose as an IT or tech support company or financial institution, and ask the user to give them control so they can perform operations on their behalf. Once the user is convinced to give control to the scammer, the scammer will quickly take over an online banking session and transfer funds.</span></p>
+<h4 style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Authorized Push Payment Scams</span></h4>
+<p><span>New innovations have brought new threats to mobile users with 75% of social engineering scams originating in the mobile channel, and authorized push payment (APP) scams are quickly growing in popularity thanks to how easy they are to pull off. In an APP scam, a social engineer convinces the victim to transfer money to them via their banking app or a P2P application like <a href="/blog/beware-and-be-aware-of-zelle-fraud-scams" rel="noopener">Zelle</a> or Venmo.</span></p>
+<p><span><a href="/blog/app-scams-fraud-director" rel="noopener"><span style="color: #1155cc;">APP attacks in particular are on the rise in 2022</span></a>. The consumer advocacy group in the UK, Which?, estimates that <a href="https://www.finextra.com/newsarticle/39823/fraud-victims-lose-28k-to-bank-transfer-scams-every-hour" rel="noopener" target="_blank">victims lose an average of £28K per hour</a><span style="color: #202124; background-color: white;"> from these payment scams. </span>Once the funds are transferred, it is very difficult to recover the money. Less than half of the people who get caught by an APP scam manage to recover their money since they technically authorized a payment. </span></p>
+<h2><span>Detecting Social Engineering Scams with Behavioral Biometrics</span></h2>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Social engineering is different from other types of cyber attacks because of it relies on the human element for success. As a result, detecting and preventing social engineering requires a unique approach. In particular, behavioral biometrics is adept at stopping social engineers from being successful by detecting when they’re using stolen information or manipulating users to enter their own information to access an online account.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span><a href="/blog/what-is-behavioral-biometrics" rel="noopener" target="_blank"><span style="color: #1155cc;">Behavioral biometrics</span></a> detect when fraudsters try to use information obtained from social engineering attacks by monitoring how information is entered, not what information is entered. As outlined in the white paper, <a href="/resources/white-paper/spot-the-impostor" rel="noopener" target="_blank">Spot the Imposter; Tackling the Rise in Social Engineering Scams</a>, typing patterns, mouse doodling, and session length are a few behaviors that can be used to distinguish between scammers and genuine users. For example, a segmented typing pattern can indicate that a fraudster is dictating an account number to the person using the keyboard which can reveal that a scam is in progress. </span></p>
+<h2 style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Don’t Let Criminals Call the Shots</span></h2>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Fraudsters are constantly evolving their methods and developing new and more sophisticated <a href="/resources/white-paper/spot-the-impostor" rel="noopener" target="_blank">social engineering tactics</a> so the ones we see today are sure to evolve. The growth of digital banking, faster payments, and P2P networks are contributing to scam activity.</span></p>
+<p style="margin-top: 12pt; margin-right: 0in; margin-bottom: 12pt; padding-left: 0in;"><span>Global regulators are paying more attention to the problem, especially as it pertains to scams involving “authorized” payments as victims don’t always get reimbursed in these scenarios. For example, in the UK, legislation is set to be introduced that would <a href="https://www.finextra.com/newsarticle/40211/uk-to-introduce-new-rules-to-preserve-cash-and-reimburse-fraud-victims" rel="noopener" target="_blank">require banks to reimburse victims</a> of authorized push payment fraud.</span></p>
+<p><span>Legacy fraud controls that rely on device, IP, and network attributes are struggling to rise to the challenge and detect these types of scams, especially in scenarios where a fraudster convinces<span style="color: black;"> a genuine customer to initiate a payment. To most fraud prevention systems, the transaction will </span>look genuine. Thus, adding behavioral data into the existing fraud prevention stack to enable real-time decisioning is critical. There’s a ton of behavioral indicators that happen within an online session, before a payment occurs, that can suggest a scam is in progress.</span> <span>And many global banks are already <a href="/blog/making-the-business-case-for-fraud-prevention-a-practitioners-perspective" rel="noopener" target="_blank">taking advantage of this powerful solution to protect their customers</a>. So can you.</span></p></span>
+          </div>
+
+          <div id="hs_cos_wrapper_module_15827335146054" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="share-icons module  module--padding-medium  module--bg-transparent  module--on-light">
+
+  <div class="module__inner constrain">
+    
+
+    <div class="module__section-main module__section-main--block-align-center">
+      <div class="module__content module__content--text-align-center constrain--12">
+        <ul class="share-icons__list share-icons__list--left">
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="facebook" title="Share on Facebook" target="_blank">
+                <svg class="share-icons__list-icon" height="21" width="10" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 8 15" role="img" aria-labelledby="socialFacebook">
+                  <title id="socialFacebook">Facebook</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M0 4.96h1.71V3.45c0-.66.02-1.69.56-2.32C2.83.46 3.6 0 4.93 0 7.09 0 8 .28 8 .28l-.43 2.3s-.71-.19-1.38-.19c-.67 0-1.26.22-1.26.82v1.75h2.73L7.47 7.2H4.93V15H1.71V7.2H0V4.96" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://twitter.com/intent/tweet?text=Types+of+Social+Engineering+Scams+%5BUpdated+2022+Guide%5D%20https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="twitter" title="Tweet on Twitter" target="_blank">
+                <svg class="share-icons__list-icon" height="17" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 14" role="img" aria-labelledby="socialTwitter">
+                  <title id="socialTwitter">Twitter</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M17 1.66c-.62.28-1.3.47-2 .55.72-.43 1.27-1.13 1.53-1.95-.67.4-1.42.7-2.22.86C13.68.43 12.77 0 11.77 0 9.84 0 8.28 1.58 8.28 3.53c0 .28.03.55.09.81C5.47 4.19 2.9 2.79 1.18.65c-.3.52-.47 1.13-.47 1.77 0 1.23.62 2.31 1.55 2.95-.57-.02-1.11-.18-1.58-.45v.05c0 1.71 1.2 3.14 2.8 3.46-.29.09-.6.13-.92.13-.22 0-.44-.02-.65-.06.44 1.4 1.73 2.42 3.25 2.45-1.19.95-2.69 1.51-4.33 1.51-.28 0-.56-.01-.83-.05 1.54 1 3.38 1.59 5.35 1.59 6.41 0 9.92-5.38 9.92-10.06 0-.15 0-.3-.01-.45.68-.5 1.27-1.12 1.74-1.83" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks&amp;title=Types%20of%20Social%20Engineering%20Attacks%3A%20Detecting%20the%20Latest%20Scams&amp;summary=Learn+about+social+engineering+attacks%2C+specifically+ones+aimed+at+the+customers+of+financial+organizations%2C+and+how+to+defend+against+them.&amp;source=" data-type="linkedin" title="Share on LinkedIn" target="_blank">
+                <svg class="share-icons__list-icon" height="19" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 15" role="img" aria-labelledby="socialLinkedIn">
+                    <title id="socialLinkedIn">LinkedIn</title>
+                    <path fill="#FFFFFF" fill-rule="evenodd" d="M16 15h-3.54V9.73c0-1.38-.55-2.33-1.77-2.33-.93 0-1.44.64-1.68 1.25-.09.22-.08.53-.08.84V15h-3.5s.04-9.34 0-10.19h3.5v1.6c.21-.7 1.33-1.7 3.11-1.7 2.22 0 3.96 1.47 3.96 4.62V15zM1.88 3.53h-.02C.73 3.53 0 2.76 0 1.77 0 .76.75 0 1.9 0c1.16 0 1.86.76 1.89 1.77 0 .98-.73 1.76-1.91 1.76zM.4 4.81h3.12V15H.4V4.81zm0 0" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+
+          
+
+          
+            <li class="share-icons__list-item">
+              <a class="share-icons__list-link" href="mailto:?subject=Types%20of%20Social%20Engineering%20Attacks%3A%20Detecting%20the%20Latest%20Scams&amp;body=https%3A%2F%2Fwww.biocatch.com%2Fblog%2Ftypes-social-engineering-attacks" data-type="email" title="Email">
+                <svg class="share-icons__list-icon" height="16" width="21" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 18 13" role="img" aria-labelledby="socialEmail">
+                  <title id="socialEmail">Email</title>
+                  <path fill="#FFFFFF" fill-rule="evenodd" d="M1.65 11.77c-.3 0-.55-.27-.55-.61V1.87l7.26 6.49c.02.02.03.04.05.06.1.12.25.18.39.18s.29-.06.39-.18c.02-.02.03-.04.05-.06l7.26-6.49v9.29c0 .34-.25.61-.55.61H1.65zM15.49 1.23L8.8 7.21 2.11 1.23h13.38zM17.44.18c-.12-.15-.29-.2-.46-.17H.62C.45-.02.28.03.16.18.05.3 0 .45 0 .61v11.78c0 .34.25.61.55.61h16.5c.3 0 .55-.27.55-.61V.62c0-.17-.05-.32-.16-.44zm0 0" />
+                </svg>
+
+                
+              </a>
+            </li>
+          
+        </ul>
+      </div>
+    </div>
+
+    
+  </div>
+</div></div>
+
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          <div class="blog-post__more-posts">
+
+            
+
+            
+
+            
+            <!-- Module Test -Recent -->
+            
+            <h2>Recent Posts</h2>
+            
+            
+            <div class="blog-listing__grid blog-listing__grid--three-col">
+              <span>
+                
+                
+                
+                
+            <div class="blog-listing__column">
+              
+<div class="post post--card">
+  <a class="post__link" href="https://www.biocatch.com/blog/zero-trust-zero-friction">
+    <div class="post__photo">
+      
+      <img class="post__photo-image" src="https://www.biocatch.com/hubfs/Zero%20trust%20zero%20friction%20featured.jpeg" alt="Zero trust, zero friction: The new survival standard for Italian banking">
+      
+
+      
+    </div>
+
+    <div class="post__inner">
+      <div class="post__content">
+        <span class="post__date">September 16, 2025</span>
+        <span class="post__title">Zero trust, zero friction: The new survival standard for Italian banking</span>
+      </div>
+
+      <div class="post__actions">
+        <span class="post__read-more cta-link cta-link--arrow">Read article</span>
+      </div>
+    </div>
+  </a>
+</div>
+
+            </div>
+            
+                
+                
+                
+                
+                
+            <div class="blog-listing__column">
+              
+<div class="post post--card">
+  <a class="post__link" href="https://www.biocatch.com/blog/all-financial-institutions-great-and-small">
+    <div class="post__photo">
+      
+      <img class="post__photo-image" src="https://www.biocatch.com/hubfs/BioCatch_090425_4.jpg" alt="All financial institutions great and small">
+      
+
+      
+    </div>
+
+    <div class="post__inner">
+      <div class="post__content">
+        <span class="post__date">September 08, 2025</span>
+        <span class="post__title">All financial institutions great and small</span>
+      </div>
+
+      <div class="post__actions">
+        <span class="post__read-more cta-link cta-link--arrow">Read article</span>
+      </div>
+    </div>
+  </a>
+</div>
+
+            </div>
+            
+                
+                
+                
+                
+                
+            <div class="blog-listing__column">
+              
+<div class="post post--card">
+  <a class="post__link" href="https://www.biocatch.com/blog/from-finfluencer-to-fraud">
+    <div class="post__photo">
+      
+      <img class="post__photo-image" src="https://www.biocatch.com/hubfs/From%20finfluencer%20to%20fraud.png" alt="From finfluencer to fraud: How social media is fueling a new wave of investment scams">
+      
+
+      
+      <span class="post__topic">
+        Fraud
+      </span>
+      
+    </div>
+
+    <div class="post__inner">
+      <div class="post__content">
+        <span class="post__date">August 26, 2025</span>
+        <span class="post__title">From finfluencer to fraud: How social media is fueling a new wave of investment scams</span>
+      </div>
+
+      <div class="post__actions">
+        <span class="post__read-more cta-link cta-link--arrow">Read article</span>
+      </div>
+    </div>
+  </a>
+</div>
+
+            </div>
+            
+                
+                
+                
+                
+              </span>
+            </div>
+
+            
+          </div>
+
+        </article>
+      </div>
+
+      
+
+    </div>
+  </main>
+  
+      
+      <div id="hs_cos_wrapper_module_site_footer" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><style>
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class=" site-footer" role="contentinfo">
+  <div class="site-footer__inner">
+    <div class="site-footer__row">
+      <div class="site-footer__info">
+        <div>
+          <div class="site-footer__logo-mark">
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewbox="0 0 1238 499" style="width: 186px;max-height: none;max-width: none;">
+         
+          <g>
+            <path fill="#fff" d="M422.74,236.98c0-8.62-6.24-15.04-14.86-15.04h-29.16v30.26h29.16c8.62,0,14.86-6.42,14.86-15.22M378.72,171.13v28.24h25.31c7.89,0,13.75-6.05,13.75-14.12s-5.69-14.12-13.75-14.12h-25.31ZM447.86,238.63c0,22.01-17.79,37.23-39.98,37.23h-54.47v-128.39h50.62c21.64,0,39.06,14.67,39.06,36.13,0,11.01-4.58,19.62-12.11,25.68,10.28,5.87,16.88,15.96,16.88,29.35" />
+            <path fill="#fff" d="M457.77,184.16h23.66v91.7h-23.66v-91.7ZM455.02,158.66c0-7.89,6.6-14.67,14.49-14.67s14.67,6.79,14.67,14.67-6.6,14.49-14.67,14.49-14.49-6.6-14.49-14.49" />
+            <path fill="#fff" d="M562.54,230.01c0-14.85-10.82-25.31-24.94-25.31s-24.76,10.46-24.76,25.31,10.82,25.31,24.76,25.31,24.94-10.46,24.94-25.31M489.18,230.01c0-27.33,21.46-48.42,48.42-48.42s48.6,21.09,48.6,48.42-21.64,48.42-48.6,48.42-48.42-21.09-48.42-48.42" />
+            <path fill="#fff" d="M592.62,211.67c0-37.6,27.88-66.76,66.76-66.76,23.48,0,44.2,11.92,55.2,30.26l-21.82,12.66c-6.24-11.37-18.71-18.34-33.38-18.34-25.13,0-41.63,17.42-41.63,42.19s16.51,42,41.63,42c14.67,0,27.33-6.97,33.38-18.16l21.82,12.66c-10.82,18.34-31.55,30.26-55.2,30.26-38.88,0-66.76-29.35-66.76-66.76" />
+            <path fill="#fff" d="M793.82,230.01c0-15.41-10.82-25.86-25.49-25.86s-25.31,10.46-25.31,25.86,10.82,25.86,25.31,25.86,25.49-10.46,25.49-25.86M817.49,184.16v91.7h-23.66v-10.82c-6.6,8.25-16.51,13.39-29.89,13.39-24.39,0-44.57-21.09-44.57-48.42s20.18-48.42,44.57-48.42c13.39,0,23.29,5.14,29.89,13.39v-10.82h23.66Z" />
+            <path fill="#fff" d="M865.17,206.9v38.15c0,9.9,7.15,10.09,20.73,9.35v21.46c-33.2,3.67-44.39-6.05-44.39-30.81v-38.15h-15.96v-22.74h15.96v-18.53l23.66-7.15v25.68h20.73v22.74h-20.73Z" />
+            <path fill="#fff" d="M889.57,230.01c0-27.33,20.54-48.42,48.42-48.42,17.97,0,33.56,9.54,41.08,23.66l-20.36,11.92c-3.67-7.52-11.56-12.29-20.91-12.29-14.12,0-24.57,10.45-24.57,25.13s10.45,24.94,24.57,24.94c9.54,0,17.43-4.58,21.09-12.1l20.54,11.74c-7.88,14.3-23.48,23.84-41.45,23.84-27.88,0-48.42-21.09-48.42-48.42" />
+            <path fill="#fff" d="M1072.06,219.55v56.31h-23.66v-53.37c0-12.47-7.52-18.89-18.16-18.89-11.56,0-20.17,6.78-20.17,22.74v49.52h-23.66v-128.39h23.66v46.95c5.5-8.25,15.04-12.84,27.33-12.84,19.44,0,34.66,13.57,34.66,37.96" />
+            <path fill="#fff" d="M147.26,218.56c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M147.26,195.61c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M185.43,179.75c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M185.43,156.8c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M146.54,141.15c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M146.54,118.21c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M185.43,257.37c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M185.43,234.42c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M148.26,294.53c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M148.26,271.59c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M301.86,218.56c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,195.61c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M301.86,141.15c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,118.21c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M301.86,293.49c-4.1,0-7.43-3.34-7.43-7.44s3.33-7.43,7.43-7.43,7.43,3.34,7.43,7.43-3.33,7.44-7.43,7.44M301.86,270.54c-8.56,0-15.51,6.96-15.51,15.51s6.95,15.51,15.51,15.51,15.5-6.96,15.5-15.51-6.96-15.51-15.5-15.51" />
+            <path fill="#fff" d="M278.83,253.56c.05-.2.13-.4.17-.61.2-1.01.3-2.05.29-3.12,0-.5-.04-.99-.09-1.47-.01-.13-.03-.27-.05-.4-.04-.32-.09-.64-.15-.95-.03-.18-.07-.35-.11-.53-.06-.27-.14-.53-.21-.79-.12-.41-.25-.82-.4-1.21-.05-.12-.09-.24-.14-.36-.04-.11-.08-.22-.13-.33-.08-.18-.18-.36-.27-.54-.03-.06-.06-.13-.1-.2-.77-1.55-1.78-2.95-3-4.15-.71-.69-1.48-1.32-2.31-1.87-2.48-1.64-5.47-2.59-8.67-2.56h0c-4.38-.54-8.01-2.11-12.35-6.13l-7.14-7.1c-2.58-2.57-3.77-6.1-3.7-9.74v-.14c0-.1,0-.2,0-.3h0c.53-4.37,2.1-8.01,6.12-12.35l7.1-7.14c2.56-2.58,6.1-3.77,9.74-3.7.13,0,.26,0,.39,0,.3,0,.59-.03.89-.06.12,0,.24,0,.36-.02.3-.03.59-.07.88-.11.15-.02.29-.04.44-.07.29-.05.58-.11.86-.17.11-.03.21-.06.32-.08.57-.15,1.12-.33,1.66-.53.1-.04.2-.07.3-.11.27-.11.52-.23.78-.35.13-.06.26-.13.39-.2.25-.13.5-.26.74-.4.1-.06.21-.13.31-.19,1.08-.66,2.08-1.44,2.96-2.34.08-.08.15-.18.22-.26.35-.37.68-.76.99-1.17.15-.19.29-.38.42-.57.3-.43.59-.88.85-1.34.08-.15.17-.31.25-.47.2-.38.38-.76.55-1.15.05-.13.09-.27.14-.39.08-.2.15-.4.21-.6.19-.57.36-1.15.48-1.75.01-.05.03-.1.04-.15.2-1.01.3-2.05.29-3.11h0v-.02s0-.05,0-.07c0-.44-.03-.88-.08-1.31-.02-.17-.04-.34-.06-.52-.04-.29-.08-.57-.14-.86-.04-.19-.07-.38-.11-.56-.07-.29-.15-.58-.23-.87-.09-.3-.19-.6-.29-.89-.08-.22-.16-.45-.25-.67-.03-.08-.06-.18-.1-.26-.06-.14-.14-.28-.2-.42-.08-.16-.16-.33-.24-.49-.12-.24-.25-.47-.38-.7-.06-.1-.13-.2-.19-.3-.67-1.09-1.45-2.1-2.36-2.98-.71-.69-1.48-1.32-2.31-1.87-2.48-1.65-5.47-2.6-8.67-2.57h0c-4.38-.54-8.01-2.11-12.35-6.13l-7.14-7.1c-2.58-2.57-3.77-6.1-3.7-9.74,0-.13,0-.26,0-.39-.04-4.27-1.81-8.12-4.64-10.9-2.12-2.08-4.84-3.56-7.86-4.15-1.01-.2-2.05-.3-3.11-.29-3.2.03-6.17,1.03-8.62,2.73-.82.56-1.58,1.2-2.27,1.91-1.39,1.41-2.51,3.09-3.27,4.95-.77,1.86-1.18,3.9-1.16,6.03.02,2.13.47,4.16,1.27,6.01.8,1.84,1.95,3.5,3.36,4.89.71.69,1.48,1.32,2.31,1.87,2.48,1.64,5.47,2.6,8.67,2.56h0c4.37.54,8.01,2.11,12.35,6.13l7.14,7.1c2.58,2.57,3.77,6.1,3.7,9.74v.1c0,.1,0,.2,0,.31h0c-.53,4.37-2.1,8.01-6.12,12.35l-7.1,7.14c-2.56,2.58-6.1,3.77-9.74,3.7-.13,0-.26,0-.39,0-4.27.04-8.12,1.81-10.89,4.64-.28.28-.52.6-.78.91-.09.11-.19.22-.28.33-.25.31-.49.64-.71.97-.13.2-.25.4-.37.6-.29.48-.56.97-.8,1.48-.11.23-.23.46-.33.7-.03.08-.06.16-.09.24-.11.28-.21.57-.3.86-.14.44-.26.88-.37,1.34-.03.15-.09.28-.12.43-.2,1.01-.3,2.05-.29,3.11v.05c0,.06,0,.12,0,.18.01.38.03.77.07,1.14.02.23.05.45.08.67.03.2.06.41.1.6.05.27.1.55.16.81.01.05.03.09.04.14.21.85.47,1.67.81,2.46.8,1.84,1.95,3.5,3.37,4.89.71.69,1.48,1.32,2.31,1.87,2.48,1.64,5.47,2.59,8.67,2.56h0c4.37.54,8.01,2.11,12.35,6.13l7.14,7.1c2.58,2.57,3.77,6.1,3.7,9.74,0,.12,0,.24,0,.37,0,.02,0,.04,0,.06h0c-.53,4.37-2.1,8-6.12,12.35l-7.1,7.14c-2.57,2.58-6.1,3.77-9.74,3.7-.13,0-.26,0-.39,0-4.27.04-8.12,1.81-10.89,4.64-2.08,2.12-3.56,4.84-4.15,7.86-.2,1.01-.3,2.05-.29,3.11.03,3.2,1.03,6.17,2.73,8.62.57.82,1.2,1.58,1.91,2.27,1.41,1.39,3.09,2.51,4.95,3.27s3.9,1.18,6.03,1.16c2.13-.02,4.16-.47,6.01-1.27,1.84-.8,3.5-1.95,4.89-3.37.69-.71,1.32-1.48,1.87-2.31,1.65-2.48,2.6-5.47,2.57-8.67h0c.53-4.37,2.1-8.01,6.12-12.35l7.1-7.14c2.56-2.58,6.1-3.77,9.74-3.7.13,0,.26,0,.39,0,4.26-.04,8.12-1.81,10.89-4.64.29-.3.55-.63.81-.96.07-.09.15-.17.22-.26.26-.33.51-.67.75-1.02.11-.15.2-.31.3-.47.34-.55.65-1.12.92-1.71.09-.19.19-.37.27-.57.03-.06.04-.13.07-.19.12-.32.24-.64.34-.96.12-.36.21-.73.3-1.11" />
+          </g>
+          <g>
+            <path fill="#fff" d="M368.74,382.46c-4.48,0-8.32-1.06-11.51-3.19-3.2-2.12-5.43-5.05-6.69-8.78l4.2-2.45c.89,3.03,2.52,5.4,4.9,7.1,2.38,1.7,5.44,2.56,9.17,2.56s6.47-.81,8.5-2.42,3.04-3.75,3.04-6.41-.93-4.5-2.8-5.81c-1.87-1.31-4.95-2.66-9.24-4.06-5.09-1.68-8.45-3.03-10.08-4.06-3.73-2.24-5.6-5.48-5.6-9.73s1.45-7.43,4.34-9.83c2.89-2.4,6.46-3.61,10.71-3.61,3.83,0,7.14.99,9.94,2.97,2.8,1.98,4.88,4.52,6.23,7.6l-4.13,2.31c-2.24-5.41-6.25-8.12-12.04-8.12-3.03,0-5.48.75-7.35,2.24-1.87,1.49-2.8,3.57-2.8,6.23,0,2.43.84,4.25,2.52,5.46,1.68,1.21,4.46,2.45,8.33,3.71,1.77.61,3.04,1.04,3.81,1.29.77.26,1.89.68,3.36,1.26,1.47.58,2.55,1.1,3.25,1.54.7.44,1.55,1.05,2.55,1.82,1,.77,1.73,1.54,2.17,2.31.44.77.84,1.7,1.19,2.8.35,1.1.52,2.28.52,3.54,0,4.15-1.52,7.48-4.55,9.97-3.03,2.5-7.02,3.75-11.97,3.75Z" />
+            <path fill="#fff" d="M410.46,351.1h-10.08v21.21c0,1.91.37,3.28,1.12,4.09.75.82,1.87,1.24,3.36,1.26,1.49.02,3.36-.01,5.6-.11v4.06c-4.9.75-8.58.4-11.03-1.05-2.45-1.45-3.67-4.2-3.67-8.26v-21.21h-7.35v-4.48h7.35v-8.4l4.62-1.4v9.8h10.08v4.48Z" />
+            <path fill="#fff" d="M446.16,346.62h4.62v35h-4.62v-6.86c-3.22,5.13-7.93,7.7-14.14,7.7-4.99,0-9.25-1.77-12.78-5.32-3.52-3.54-5.29-7.88-5.29-13.02s1.76-9.47,5.29-13.02c3.52-3.55,7.78-5.32,12.78-5.32,6.21,0,10.92,2.57,14.14,7.7v-6.86ZM422.57,373.96c2.66,2.68,5.93,4.02,9.8,4.02s7.14-1.34,9.8-4.02c2.66-2.68,3.99-5.96,3.99-9.83s-1.33-7.15-3.99-9.83c-2.66-2.68-5.93-4.02-9.8-4.02s-7.14,1.34-9.8,4.02c-2.66,2.68-3.99,5.96-3.99,9.83s1.33,7.15,3.99,9.83Z" />
+            <path fill="#fff" d="M485.78,346.62h4.9l-14.98,38.22c-1.35,3.45-3.28,6.17-5.77,8.16-2.5,1.98-5.28,2.86-8.36,2.62v-4.34c4.19.47,7.38-1.96,9.57-7.29l.89-2.26-15.64-35.11h4.9l13.1,29.08,11.4-29.08Z" />
+            <path fill="#fff" d="M529.88,382.46c-4.48,0-8.32-1.06-11.51-3.19-3.2-2.12-5.43-5.05-6.69-8.78l4.2-2.45c.89,3.03,2.52,5.4,4.9,7.1,2.38,1.7,5.44,2.56,9.17,2.56s6.47-.81,8.5-2.42,3.04-3.75,3.04-6.41-.93-4.5-2.8-5.81c-1.87-1.31-4.95-2.66-9.24-4.06-5.09-1.68-8.45-3.03-10.08-4.06-3.73-2.24-5.6-5.48-5.6-9.73s1.45-7.43,4.34-9.83c2.89-2.4,6.46-3.61,10.71-3.61,3.83,0,7.14.99,9.94,2.97,2.8,1.98,4.88,4.52,6.23,7.6l-4.13,2.31c-2.24-5.41-6.25-8.12-12.04-8.12-3.03,0-5.48.75-7.35,2.24-1.87,1.49-2.8,3.57-2.8,6.23,0,2.43.84,4.25,2.52,5.46,1.68,1.21,4.46,2.45,8.33,3.71,1.77.61,3.04,1.04,3.81,1.29.77.26,1.89.68,3.36,1.26,1.47.58,2.55,1.1,3.25,1.54.7.44,1.55,1.05,2.55,1.82,1,.77,1.73,1.54,2.17,2.31.44.77.84,1.7,1.19,2.8.35,1.1.52,2.28.52,3.54,0,4.15-1.52,7.48-4.55,9.97-3.03,2.5-7.02,3.75-11.97,3.75Z" />
+            <path fill="#fff" d="M584.9,346.62h4.62v35h-4.62v-6.86c-3.22,5.13-7.93,7.7-14.14,7.7-4.99,0-9.25-1.77-12.78-5.32-3.52-3.54-5.29-7.88-5.29-13.02s1.76-9.47,5.29-13.02c3.52-3.55,7.78-5.32,12.78-5.32,6.21,0,10.92,2.57,14.14,7.7v-6.86ZM561.31,373.96c2.66,2.68,5.93,4.02,9.8,4.02s7.14-1.34,9.8-4.02c2.66-2.68,3.99-5.96,3.99-9.83s-1.33-7.15-3.99-9.83c-2.66-2.68-5.93-4.02-9.8-4.02s-7.14,1.34-9.8,4.02c-2.66,2.68-3.99,5.96-3.99,9.83s1.33,7.15,3.99,9.83Z" />
+            <path fill="#fff" d="M616.82,336.26c-3.41-.28-5.94.3-7.6,1.75s-2.48,3.85-2.48,7.21v1.4h10.08v4.48h-10.08v30.52h-4.62v-30.52h-5.95v-4.48h5.95v-1.4c0-4.57,1.27-8.04,3.81-10.4,2.54-2.36,6.17-3.37,10.89-3.04v4.48Z" />
+            <path fill="#fff" d="M635.79,345.78c5.18,0,9.37,1.83,12.56,5.5,3.2,3.66,4.79,7.99,4.79,12.99,0,.51-.05,1.24-.14,2.17h-30.73c.47,3.55,1.97,6.36,4.52,8.43,2.54,2.08,5.68,3.11,9.42,3.11,2.66,0,4.96-.55,6.89-1.64,1.94-1.1,3.4-2.53,4.38-4.3l4.06,2.38c-1.54,2.47-3.64,4.43-6.3,5.88-2.66,1.45-5.69,2.17-9.1,2.17-5.51,0-9.99-1.73-13.44-5.18-3.45-3.45-5.18-7.84-5.18-13.16s1.7-9.59,5.11-13.09c3.41-3.5,7.79-5.25,13.16-5.25ZM635.79,350.26c-3.64,0-6.69,1.08-9.14,3.25-2.45,2.17-3.91,4.98-4.38,8.43h26.11c-.47-3.69-1.89-6.56-4.27-8.61-2.38-2.05-5.16-3.08-8.33-3.08Z" />
+            <path fill="#fff" d="M663.58,381.2c-.75.75-1.66,1.12-2.73,1.12s-1.98-.37-2.73-1.12c-.75-.75-1.12-1.66-1.12-2.73s.37-1.98,1.12-2.73,1.66-1.12,2.73-1.12,1.98.37,2.73,1.12c.75.75,1.12,1.66,1.12,2.73s-.37,1.98-1.12,2.73Z" />
+          </g>
+        </svg>
+          </div>
+          <div class="site-footer__contact-info">
+            <h4></h4>
+            
+            <p>Call us at <a class="footer-phone" href="tel:19173386544">+1 917 338 6544</a>,<br>
+              <a href="mailto:info@biocatch.com">email us</a>, or <a href="https://www.biocatch.com/fraud-intelligence-briefing?__hstc=151929382.007c948827ed5b51d31066d13db048d0.1684183528512.1706712382881.1706823397067.157&amp;__hssc=151929382.1.1706823397067&amp;__hsfp=3828489826&amp;hsutk=007c948827ed5b51d31066d13db048d0&amp;contentType=standard-page">request a briefing</a>.
+            </p>
+          </div>
+        </div>
+
+        <div class="site-footer__contact-menu">
+          <div class="site-footer__main-menu">
+            
+<div id="hs_menu_wrapper_module_site_footer_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" aria-label="Navigation Menu">
+  <ul role="menu" tabindex="0">
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="javascript:0;" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Contact</a>
+      
+      <ul role="menu" class="hs-menu-children-wrapper" tabindex="0">
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/contact-us" role="menuitem">
+            Contact Us
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/customer-support" role="menuitem">
+            Support
+          </a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+  </ul>
+</div>
+
+
+          </div>
+        </div>
+      </div>
+
+      <div class="site-footer__main-menu">
+        
+<div id="hs_menu_wrapper_module_site_footer_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" aria-label="Navigation Menu">
+  <ul role="menu" tabindex="0">
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="javascript:0;" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Explore</a>
+      
+      <ul role="menu" class="hs-menu-children-wrapper" tabindex="0">
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/biocatch-connect" role="menuitem">
+            BioCatch Connect
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/why-biocatch" role="menuitem">
+            Why BioCatch
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/biocatch-connect/fraud-telemetry-collection" role="menuitem">
+            Fraud Telemetry
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/biocatch-connect/continuous-behavioral-sequencing" role="menuitem">
+            Continuous Behavioral Sequencing
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/biocatch-connect/predictive-intelligence" role="menuitem">
+            Predictive Intelligence
+          </a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="javascript:0;" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Solutions</a>
+      
+      <ul role="menu" class="hs-menu-children-wrapper" tabindex="0">
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/account-opening-protection" role="menuitem">
+            Account Opening Protection 
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/account-takeover-protection" role="menuitem">
+            Account Takeover Protection 
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/mule-account-detection" role="menuitem">
+            Mule Account Detection
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/social-engineering-scam-detection" role="menuitem">
+            Social Engineering Scam Detection
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/strong-customer-authentication" role="menuitem">
+            Strong Customer Authentication
+          </a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="javascript:0;" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Company</a>
+      
+      <ul role="menu" class="hs-menu-children-wrapper" tabindex="0">
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/about-biocatch" role="menuitem">
+            About Us
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/cybersecurity-careers" role="menuitem">
+            Careers
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/events-page" role="menuitem">
+            Events
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/news" role="menuitem">
+            News 
+          </a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="javascript:0;" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Resources</a>
+      
+      <ul role="menu" class="hs-menu-children-wrapper" tabindex="0">
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/resources" role="menuitem">
+            Resource Center
+          </a>
+        </li>
+        
+        <li class="hs-menu-item hs-menu-depth-2" role="none">
+          <a href="https://www.biocatch.com/blog" role="menuitem">
+            Blog
+          </a>
+        </li>
+        
+      </ul>
+      
+    </li>
+    
+  </ul>
+</div>
+
+
+      </div>
+    </div>
+
+    <div class="site-footer__row">
+      <div class="site-footer__copyright">
+        <span class="site-footer__copyright-text">© 2025 BioCatch. </span>
+
+        <div class="site-footer__secondary-menu">
+
+          
+<div id="hs_menu_wrapper_module_site_footer_" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" aria-label="Navigation Menu">
+  <ul role="menu" tabindex="0">
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="https://www.biocatch.com/terms-and-conditions" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Terms &amp; Conditions</a>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="https://www.biocatch.com/privacy-policy" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Privacy Policy</a>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="https://www.biocatch.com/careers/candidate-privacy-notice" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Candidate Privacy Notice</a>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="https://www.biocatch.com/contact-us" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Contact Us</a>
+      
+    </li>
+    
+    
+    <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none">
+      <a href="https://www.biocatch.com/modern-slavery-statement" aria-haspopup="true" aria-expanded="false" role="menuitem">
+        Modern Slavery Statement</a>
+      
+    </li>
+    
+  </ul>
+</div>
+
+
+        </div>
+      </div>
+
+      <div class="site-footer__social-menu">
+        <a href="https://www.linkedin.com/company/biocatch/" target="_blank">
+          <svg width="31" height="31" viewbox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M0 4.16696C0 1.86561 1.86561 0 4.16696 0H26.3908C28.6921 0 30.5577 1.86561 30.5577 4.16696V26.3908C30.5577 28.6921 28.6921 30.5577 26.3908 30.5577H4.16696C1.86561 30.5577 0 28.6921 0 26.3908V4.16696Z" fill="white" />
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M11.0077 8.33301C11.0077 9.77246 9.84186 10.9385 8.40375 10.9385C6.96479 10.9385 5.79877 9.77246 5.79877 8.33301C5.79877 6.89551 6.96479 5.72949 8.40375 5.72949C9.84186 5.72949 11.0077 6.89551 11.0077 8.33301Z" fill="#0075C9" />
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M10.4178 12.6738V24.1797C10.4199 24.5361 10.1328 24.8262 9.7768 24.8281H9.77375H7.02875C6.67279 24.8291 6.38385 24.541 6.38275 24.1856V24.1826V12.6738C6.38275 12.3174 6.67181 12.0283 7.02875 12.0283V12.0283H9.77375C10.1298 12.0293 10.4178 12.3184 10.4178 12.6738Z" fill="#0075C9" />
+            <path fill-rule="evenodd" clip-rule="evenodd" d="M24.7658 18.6646V24.2349C24.7668 24.562 24.5028 24.8276 24.1759 24.8286H24.1718H21.2208C20.8939 24.8296 20.6278 24.5649 20.6268 24.2378V24.2349V18.8364C20.6268 18.0308 20.8629 15.3091 18.5208 15.3091C16.7058 15.3091 16.3369 17.1714 16.2639 18.0083V24.2349C16.2639 24.5591 16.0028 24.8237 15.6778 24.8286H12.8278C12.5008 24.8286 12.2358 24.564 12.2358 24.2368V24.2349V12.6245C12.2348 12.2974 12.4988 12.0317 12.8258 12.0308H12.8278H15.6778C16.0058 12.0308 16.2718 12.2964 16.2718 12.6245V13.6274C16.9458 12.6177 17.9438 11.8374 20.0748 11.8374C24.7938 11.8374 24.7658 16.2446 24.7658 18.6646V18.6646Z" fill="#0075C9" />
+          </svg>
+        </a>
+        <a href="https://twitter.com/biocatch" class="x-link" target="_blank">
+          <svg width="30" height="30" viewbox="0 0 1200 1227" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M714.163 519.284L1160.89 0H1055.03L667.137 450.887L357.328 0H0L468.492 681.821L0 1226.37H105.866L515.491 750.218L842.672 1226.37H1200L714.137 519.284H714.163ZM569.165 687.828L521.697 619.934L144.011 79.6944H306.615L611.412 515.685L658.88 583.579L1055.08 1150.3H892.476L569.165 687.854V687.828Z" fill="#0375c9" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </div>
+</footer></div>
+      
+    </div>
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+<script src="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/41194499331/1744352559842/template_mjtw_main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en-us';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="https://www.biocatch.com/hubfs/hub_generated/module_assets/1/65783850326/1750971903974/module_mjtw-site-header-dev.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/123650110299/1744352559429/template_jquery-ui.min.js"></script>
+<script src="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/61894992743/1744352559204/template_jquery.magnific-popup.min.js"></script>
+<script src="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/124002073411/1744352560941/template_biocatch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
+
+    <!--[if lte IE 8]>
+    <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+    <![endif]-->
+
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+  <script data-hs-allowed="true">
+      hbspt.forms.create({
+          portalId: '1828513',
+          formId: '02dc4d8c-7d21-4fed-a90e-6ac62abfc018',
+          formInstanceId: '5096',
+          pageId: '21210433804',
+          region: 'na1',
+          
+          pageName: 'Types of Social Engineering Scams [Updated 2022 Guide]',
+          
+          contentType: 'blog-post',
+          
+          formsBaseUrl: '/_hcms/forms/',
+          
+          
+          css: '',
+          target: '#hs_form_target_blog_subscribe_form_5096',
+          
+          formData: {
+            cssClass: 'hs-form stacked'
+          }
+      });
+  </script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.biocatch.com\/blog\/types-social-engineering-attacks"]);
+_hsq.push(["setPageId", "21210433804"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 21210433804,
+    "legacyPageId": "21210433804",
+    "contentFolderId": null,
+    "contentGroupId": 3604590991,
+    "abTestId": null,
+    "languageVariantId": 21210433804,
+    "languageCode": "en-us",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/1828513.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "8d5611ea-9230-499f-a8a7-a29f924dde65",
+    ticks: 1758042974237,
+    page_id: 21210433804,
+    
+    content_group_id: 3604590991,
+    portal_id: 1828513,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en-us",
+    analytics_page_type: "blog-post",
+    scp_content_type: "",
+    
+    analytics_page_id: "21210433804",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.432/js/index.js"></script>
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MSCX6W2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!-- Hotjar Tracking Code for https://www.biocatch.com/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1203964,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+
+<!-- zoominfo -->
+<noscript>
+<img src="https://ws.zoominfo.com/pixel/623b2b00123ab00015538b81" width="1" height="1" style="display: none;">
+</noscript>
+
+<link rel="stylesheet" href="https://www.biocatch.com/hubfs/hub_generated/template_assets/1/35588509462/1744352528492/template_cookiebot.min.css" type="text/css">
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="a48664bb-68a6-4efd-8246-d9e45f9f85a7" data-blockingmode="auto" type="text/javascript"></script>
+<!-- Cookiebot Overrides -->
+<style>
+  a#CybotCookiebotDialogBodyLevelButtonLevelOptinDeclineAll {
+  	background-color: #fff;
+    border: 1px solid #fff;
+    color: #3c97e8;
+  }
+</style>
+
+<div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+  fjs.parentNode.insertBefore(js, fjs);
+ }(document, 'script', 'facebook-jssdk'));</script> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+  
+</div></body></html>
