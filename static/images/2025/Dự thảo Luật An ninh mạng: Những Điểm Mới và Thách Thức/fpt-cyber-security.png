@@ -1,0 +1,1667 @@
+<!DOCTYPE html>
+<html class="no-js" lang="vi-VN">
+
+<head>
+	
+	<link rel="preload" as="style" href="/-/media/Themes/Wireframe/sass/base/fonts/fonts.scss">
+	<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/inter-ui/3.19.3/inter.css">
+	<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="preconnect" href="https://www.googletagmanager.com/">
+
+<link href="/-/media/themes/fpt-corporation/fpt/component-themes/cr/styles/pre-optimized-min.css?t=" rel="stylesheet" /><link href="/-/media/feature/experience-accelerator/bootstrap-4/bootstrap-4/styles/optimized-min.css?t=20211220T133431Z" rel="stylesheet" /><link href="/-/media/base-themes/core-libraries/styles/optimized-min.css?t=20241009T072823Z" rel="stylesheet" /><link href="/-/media/base-themes/main-theme/styles/optimized-min.css?t=20220729T225501Z" rel="stylesheet" /><link href="/-/media/themes/fpt-corporation/fpt/fptweb/styles/pre-optimized-min.css?t=20230905T150303Z" rel="stylesheet" />
+<link rel="stylesheet"  href="/-/media/themes/fpt-corporation/fpt/fptweb-base/styles/theme.css" rel="stylesheet" /><link rel="stylesheet"  href="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/styles/slick.css" rel="stylesheet" />
+<script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/cr/scripts/optimized-min.js?t=20250226T233022Z"></script><script defer src="/-/media/base-themes/core-libraries/scripts/optimized-min.js?t=20241009T072822Z"></script><script defer src="/-/media/base-themes/xa-api/scripts/optimized-min.js?t=20220729T225459Z"></script><script defer src="/-/media/base-themes/components-theme/scripts/optimized-min.js?t=20250421T150433Z"></script><script defer src="/-/media/base-themes/main-theme/scripts/optimized-min.js?t=20220729T225500Z"></script><script defer src="/-/media/themes/fpt-corporation/fpt/fptweb/scripts/optimized-min.js?t=20250727T212307Z"></script>
+
+	
+	
+
+
+    <title>Tập đo&#224;n FPT</title>
+
+		<link rel="canonical" href="https://fpt.com/vi" />
+
+
+
+
+
+    <link href="/-/media/project/fpt-corporation/fpt/settings/favicon.png" rel="shortcut icon" />
+
+
+
+<meta property="og:description"  content="FPT là một trong những công ty dịch vụ công nghệ thông tin lớn nhất tại Việt Nam với lĩnh vực kinh doanh chính là cung cấp các sản phẩm dịch vụ công nghệ thông tin" /><meta property="og:image"  content="https://fpt.com/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/logo-fpt.svg" /><meta property="og:title"  content="Tập đoàn FPT" /><meta property="og:url"  content="https://fpt.com/vi" />
+
+
+<meta  name="description" content="FPT là một trong những công ty dịch vụ công nghệ thông tin lớn nhất tại Việt Nam với lĩnh vực kinh doanh chính là cung cấp các sản phẩm dịch vụ công nghệ thông tin" />
+
+
+<meta property="twitter:title"  content="Home" /><meta property="twitter:card"  content="summary_large_image" />
+
+<script type="application/ld+json"> 
+{
+ "@context": "http://schema.org",
+ "@type": "WebSite",
+ "name": "Tập đoàn FPT",
+ "alternateName": "FPT Corporation",
+ "url": "https://fpt.com/", 
+ "potentialAction": {
+                "@type": "SearchAction", 
+"target": "https://fpt.com/search?q={search_term_string}", 
+"query-input": "required name=search_term_string"
+        }
+}
+</script><script type="application/ld+json"> 
+{
+"@context": "https://schema.org", 
+"@type": "Organization", 
+"name": "Tập đoàn FPT", 
+"url": "https://fpt.com/", 
+"logo": "https://fpt.com/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg",
+ "foundingDate": "1988", 
+"founders": 
+[{
+     "@type": "Person", "name": "Trương Gia Bình"
+        },
+{
+    "@type": "Person", "name": "Bùi Quang Ngọc"
+        }, 
+{
+    "@type": "Person", "name": "Đỗ Cao Bảo"
+        }], 
+"address": 
+[{
+"@type": "PostalAddress",
+ "streetAddress": "10 P. Phạm Văn Bạch, Dịch Vọng, Cầu Giấy",
+ "addressLocality": "Hà Nội City",
+ "addressRegion": "Northeast",
+ "postalCode": "100000",
+ "addressCountry": "VNM"
+   }, 
+{
+  "@type": "PostalAddress",
+ "streetAddress": "khu chế xuất Tân Thuận, 29B-31B-33B Tân Thuận, Tân Thuận Đông, Quận 7",
+ "addressLocality": "Hồ Chí Minh City",
+ "addressRegion": "Southeast",
+ "postalCode": "70000",
+ "addressCountry": "VNM"
+ }],
+ "contactPoint": 
+[{
+"@type": "ContactPoint",
+ "telephone": "+84 24 7300 7300",
+ "contactType": "customer service"
+  }],
+ "sameAs": [ "https://www.facebook.com/fptcorp/",
+ "https://www.linkedin.com/company/fpt-corporation/",
+ "https://www.youtube.com/c/FPTCorporation",
+ "https://vi.wikipedia.org/wiki/T%E1%BA%ADp_%C4%91o%C3%A0n_FPT", 
+ "https://www.google.com/search?q=search+query&kponly=&kgmid=/m%2F05c278h",
+ "https://www.tiktok.com/@fptchungta"]
+}
+</script>
+
+<script type="application/ld+json">
+        {
+                "@context": "http://schema.org",
+                "@id": "https://fpt.com/#webpage",
+                "@type": "WebPage",
+                "url": "https://fpt.com/",
+                "name": "FPT"
+        }
+</script>
+
+<script type="application/ld+json">
+        {
+                "@context": "http://schema.org",
+                "@id": "https://fpt.com/#website",
+                "@type": "WebSite",
+                "url": "https://fpt.com/",
+                "name": "FPT",
+                "potentialAction": {
+                        "@type": "SearchAction",
+                        "target": "https://fpt.com/search?q={search_term_string}",
+                        "query-input": "required name=search_term_string"
+                }
+        }
+</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.defer=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MVWJ9NV');</script>
+<!-- End Google Tag Manager -->
+
+<meta name='dmca-site-verification' content='bTFweGtQZSs1TWgvT015Yk1EUzRPQT090' />
+
+
+
+<script type="application/ld+json">
+ {
+ "@context": "https://schema.org",
+ "@type": "LocalBusiness",
+ "name": "Tập đoàn FPT",
+ "image": "https://fpt.com.vn/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg",
+ "@id": "https://fpt.com.vn/",
+ "url": "https://fpt.com.vn/",
+ "telephone": "+84 24 7300 7300",
+ "address": {
+ "@type": "PostalAddress",
+ "streetAddress": "10 P. Phạm Văn Bạch, Dịch Vọng, Cầu Giấy",
+ "addressLocality": "Hà Nội",
+ "postalCode": "100000",
+ "addressCountry": "VN"
+ },
+ "geo": {
+ "@type": "GeoCoordinates",
+ "latitude": 21.026813,
+ "longitude": 105.7886195
+ },
+ "openingHoursSpecification": {
+ "@type": "OpeningHoursSpecification",
+ "dayOfWeek": [
+ "Monday",
+ "Tuesday",
+ "Wednesday",
+ "Thursday",
+ "Friday"
+ ],
+ "opens": "08:30",
+ "closes": "18:00"
+ },
+ "sameAs": [
+ "https://www.facebook.com/fptcorp/",
+ "https://www.linkedin.com/company/fpt-corporation/",
+ "https://www.youtube.com/c/FPTCorporation",
+ "https://vi.wikipedia.org/wiki/T%E1%BA%ADp_%C4%91o%C3%A0n_FPT",
+ "https://www.google.com/search?q=search+query&kponly=&kgmid=/m%2F05c278h",
+ "https://fptcorp.business.site/"
+ ] 
+ }
+ </script>
+
+
+
+
+<script type="application/ld+json">
+ {
+ "@context":"https://schema.org",
+ "@graph":
+[
+
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Trang Chủ",
+		"url":"https://fpt.com"
+		},
+		
+
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Về FPT",
+		"url":"https://fpt.com/vi/ve-fpt"
+		},
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Hệ sinh th&#225;i FPT",
+		"url":"https://fpt.com/vi/he-sinh-thai-fpt"
+		},
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Nh&#224; đầu tư",
+		"url":"https://fpt.com/vi/nha-dau-tu"
+		},
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Tin tức",
+		"url":"https://fpt.com/vi/tin-tuc"
+		},
+		{
+		"@context":"https://schema.org",
+		"@type":"SiteNavigationElement",
+		"id":"site-navigation",
+		"name":"Cơ hội nghề nghiệp",
+		"url":"https://fpt.com/vi/co-hoi-nghe-nghiep"
+		}
+]}
+</script>
+
+
+
+
+</head>
+<body class="default-device bodyclass">
+	
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MVWJ9NV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<style nonce="aHR0cHM6Ly9mcHQuY29t">
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+}
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
+	
+<!-- #wrapper -->
+<div id="wrapper">
+    <!-- #header -->
+    <header>
+        <div id="header" class="">
+            
+<div class="component header fpt-header fpt-container fpt-container-full-width">
+<div class="component header fpt-header-bottom container-grid-10 fpt-container">
+
+<div class="component image file-type-icon-media-link logo-header">
+    <div class="component-content">
+
+		<a href="/vi" target=""> 
+				<img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/common/images/navigation/logo/fpt-logo.svg" alt="image">
+		</a>
+	
+     </div>
+</div>
+
+<div class="component image file-type-icon-media-link logo-header">
+    <div class="component-content">
+    </div>
+</div>
+
+
+		<div class="component in-homepage navigation in-header">
+			<div class="component-content">
+					<button class="fpt-toggle-menu-btn">
+						<span class="toggle-line"></span>
+					</button>
+				<nav>
+<ul class="clearfix">
+        <li class=" level1 submenu item0 odd first rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt" target="">Về FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/thong-diep-chu-tich" target="">Th&#244;ng điệp Chủ tịch HĐQT</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/thong-diep-tong-giam-doc" target="">Th&#244;ng điệp Tổng gi&#225;m đốc</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/gia-tri-cot-loi" target="">Gi&#225; trị cốt l&#245;i</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/lich-su" target="">Lịch sử</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/tam-nhin-chien-luoc" target="">Tầm nh&#236;n chiến lược</a>
+    
+</div>
+        </li>
+        <li class=" level2 item5 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/mang-luoi-hoat-dong" target="">Mạng lưới hoạt động</a>
+    
+</div>
+        </li>
+        <li class=" level2 item6 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/doi-ngu-lanh-dao" target="">Đội ngũ l&#227;nh đạo</a>
+    
+</div>
+        </li>
+        <li class=" level2 item7 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/trach-nhiem-xa-hoi" target="">Tr&#225;ch nhiệm x&#227; hội</a>
+    
+</div>
+        </li>
+        <li class=" level2 item8 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/giai-thuong" target="">Giải thưởng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item9 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/doi-tac-va-khach-hang" target="">Đối t&#225;c v&#224; kh&#225;ch h&#224;ng</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item1 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt" target="">Hệ sinh th&#225;i FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/cong-nghe" target="">C&#244;ng nghệ</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/vien-thong" target="">Viễn th&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/giao-duc" target="">Gi&#225;o  dục</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/cong-ty-thanh-vien" target="">C&#244;ng ty th&#224;nh vi&#234;n</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu" target="">Nh&#224; đầu tư</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/dai-hoi-co-dong" target="">Đại hội đồng cổ đ&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/thong-tin-cong-bo" target="">C&#244;ng bố th&#244;ng tin</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/bao-cao-thuong-nien" target="">B&#225;o c&#225;o</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/thong-tin-co-phieu" target="">Th&#244;ng tin cổ phiếu</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/quan-tri-cong-ty" target="">Quản trị c&#244;ng ty</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item3 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/tin-tuc" target="">Tin tức</a>
+    
+</div>
+        </li>
+        <li class=" level1 item4 odd last rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/co-hoi-nghe-nghiep" target="">Cơ hội nghề nghiệp</a>
+    
+</div>
+        </li>
+</ul>
+
+				</nav>
+			</div>
+		</div>
+
+
+	<div class="component in-homepage search">
+		<div class="component-content">
+<span class="search-icon"></span><div class="search-container"><div class="search__input-box"><form action="/vi/search">
+<a href="javascript:void(0);"><span class="search-icon"></span></a>
+<input id="inp_search" name="q" placeholder="Nhập để tìm kiếm">
+<hr/>
+</form></div></div>		</div>
+	</div>
+
+
+
+
+<div style="" class="component in-header-top language-selector">
+	<div class="component-content">
+		<div class="language-selector-select-item" data-language-code="vi" data-country-code="vn">
+			<a class="language-selector-select-link">
+				vi
+			</a>
+		</div>
+			<ul class="language-selector-item-container">
+					<li class="language-selector-item" data-language-code="en" data-country-code="us">
+							<a href="/en">
+								en
+							</a>
+
+					</li>
+					<li class="language-selector-item is-active" data-language-code="vi" data-country-code="vn">
+							<a href="/vi">
+								vi
+							</a>
+
+					</li>
+			</ul>
+	</div>
+</div>
+</div></div>
+
+    <div class="component rich-text future-direction-top m-t-60">
+        <div class="component-content">
+        </div>
+    </div>
+<div class="component header fpt-sidebar">
+
+
+		<div class="component navigation in-sidebar">
+			<div class="component-content">
+				<nav>
+<ul class="clearfix">
+        <li class=" level1 submenu item0 odd first rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt" target="">Về FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/thong-diep-chu-tich" target="">Th&#244;ng điệp Chủ tịch HĐQT</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/thong-diep-tong-giam-doc" target="">Th&#244;ng điệp Tổng gi&#225;m đốc</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/gia-tri-cot-loi" target="">Gi&#225; trị cốt l&#245;i</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/lich-su" target="">Lịch sử</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/tam-nhin-chien-luoc" target="">Tầm nh&#236;n chiến lược</a>
+    
+</div>
+        </li>
+        <li class=" level2 item5 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/mang-luoi-hoat-dong" target="">Mạng lưới hoạt động</a>
+    
+</div>
+        </li>
+        <li class=" level2 item6 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/doi-ngu-lanh-dao" target="">Đội ngũ l&#227;nh đạo</a>
+    
+</div>
+        </li>
+        <li class=" level2 item7 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/trach-nhiem-xa-hoi" target="">Tr&#225;ch nhiệm x&#227; hội</a>
+    
+</div>
+        </li>
+        <li class=" level2 item8 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/giai-thuong" target="">Giải thưởng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item9 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/ve-fpt/doi-tac-va-khach-hang" target="">Đối t&#225;c v&#224; kh&#225;ch h&#224;ng</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item1 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt" target="">Hệ sinh th&#225;i FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/cong-nghe" target="">C&#244;ng nghệ</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/vien-thong" target="">Viễn th&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/giao-duc" target="">Gi&#225;o  dục</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/he-sinh-thai-fpt/cong-ty-thanh-vien" target="">C&#244;ng ty th&#224;nh vi&#234;n</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu" target="">Nh&#224; đầu tư</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/dai-hoi-co-dong" target="">Đại hội đồng cổ đ&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/thong-tin-cong-bo" target="">C&#244;ng bố th&#244;ng tin</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/bao-cao-thuong-nien" target="">B&#225;o c&#225;o</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/thong-tin-co-phieu" target="">Th&#244;ng tin cổ phiếu</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd last rel-level2">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/nha-dau-tu/quan-tri-cong-ty" target="">Quản trị c&#244;ng ty</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item3 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/tin-tuc" target="">Tin tức</a>
+    
+</div>
+        </li>
+        <li class=" level1 item4 odd last rel-level1">
+<div class="navigation-title field-navigationtitle">
+
+     <a href="/vi/co-hoi-nghe-nghiep" target="">Cơ hội nghề nghiệp</a>
+    
+</div>
+        </li>
+</ul>
+
+				</nav>
+			</div>
+		</div>
+</div>
+        </div>
+    </header>
+    <!-- /#header -->
+    <!-- #content -->
+    <main>
+        <div id="content" class="">
+            
+
+
+<div class="component fpt-container">
+    <div class="component-content" >
+	<div class="component right-panel">
+		<input id="right-panel-item-id" value="{DE85DFFA-05F2-489B-9534-029D46CCB4BA}" hidden />
+		<div class="component-content">
+			<div class="right-panel-collapse">
+				<div class="right-panel-collapse-fpt-index">
+					<p class=""></p>
+				</div>
+
+				<div class="mobile-btn"><i class="fa fa-ellipsis-v"></i></div>
+			</div>
+
+			<div class="right-panel-expand">
+				<p class="right-panel-expand-date">Tại ng&#224;y <span id="fpt-date"></span></p>
+				<div class="right-panel-expand-fpt">
+					<p class="right-panel-expand-fpt-title ">FPT</p>
+					<div class="right-panel-expand-fpt-description">
+						<div class="right-panel-expand-fpt-detail">
+							<p id="fpt-index" class="right-panel-expand-fpt-detail-index"></p>
+							<p id="fpt-point" class="right-panel-expand-fpt-detail-point "></p>
+							<p id="fpt-percent" class="right-panel-expand-fpt-detail-percent "></p>
+						</div>
+						<div class="right-panel-expand-fpt-volume">
+							<p>volume <span id="fpt-volume"></span></p>
+						</div>
+					</div>
+				</div>
+				<button class="btn-close"><i class="fa fa-times-circle" aria-hidden="true"></i></button>
+			</div>
+		</div>
+	</div>
+
+<div class="component main-slider-banner-offer">
+    <div class="component-content">
+<style nonce="aHR0cHM6Ly9mcHQuY29t">
+    .csp-s-background-image {
+        background-image: url('/-/media/project/fpt-corporation/fpt/home/banner/common/image/nen-banner-slide_2.jpg');
+    }
+</style>
+
+<div class="main-slider-content csp-s-background-image">
+    <div class="banner-slider-content-container container-grid-10 p-l-0-lg p-r-0-lg">
+        <div class="banner-slider-offer-button">
+            <div class="slick-btn-prev slick-arrow" aria-disabled="true">
+            </div>
+            <div class="slick-btn-next slick-arrow" aria-disabled="true">
+            </div>
+        </div>
+        <div class="slider slider-content p-x-20">
+            <div class="item">
+                <div class="slick-item-container d-flex flex-column">
+                    <div class="slick-item__image">
+                        <a href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-khoi-cong-truong-pho-thong-lien-cap-dau-tien-tai-nghe-an">
+                           <picture class="lazyload" >
+	<source media="(min-width: 1025px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/nghi-thuc-khoi-cong-cong-trinh-truong-tieu-hoc-thcs-thpt-fpt-vinh.jpg">
+	<source media="(min-width: 768px) and (max-width: 1024px)" data-srcset="">
+	<source media="(max-width: 767px)" data-srcset="">
+	<img data-src="" alt="slider">
+</picture>
+                        </a>
+                    </div>
+                    <div class="slick-item__content p-l-20-lg p-r-20-lg">
+                        <div class="slick-item__content-container d-flex flex-column justify-content-between">
+                            <div class="slick-item__content-top">
+                                <h2 class="fpt-h2 strim-line-3 m-b-20" ><p class="pf0"><span class="cf0">FPT kh</span><span class="cf1">ởi </span><span class="cf1">c</span><span class="cf0">&ocirc;ng</span><span class="cf0"> tr</span><span class="cf2">ư</span><span class="cf1">ờng phổ </span><span class="cf1">th</span><span class="cf0">&ocirc;ng</span><span class="cf0"> </span><span class="cf0">li&ecirc;n</span><span class="cf0"> c</span><span class="cf1">ấp </span><span class="cf3">đ</span><span class="cf1">ầu </span><span class="cf1">ti</span><span class="cf0">&ecirc;n</span><span class="cf0"> t</span><span class="cf1">ại Nghệ An</span></p></h2>
+                                <div class="strim-line-9">
+                                    <p><span class="cf0">T</span><span class="cf1">ập </span><span class="cf2">đo</span><span class="cf0">&agrave;n</span><span class="cf0"> FPT kh</span><span class="cf1">ởi </span><span class="cf1">c</span><span class="cf0">&ocirc;ng</span><span class="cf0"> x&acirc;y d</span><span class="cf1">ựng </span><span class="cf1">c</span><span class="cf0">&ocirc;ng</span><span class="cf0"> </span><span class="cf0">tr&igrave;nh</span><span class="cf0"> </span><span class="cf0">Tr</span><span class="cf3">ư</span><span class="cf1">ờng</span><span class="cf1"> </span><span class="cf1">Tiểu</span><span class="cf1"> </span><span class="cf1">học</span><span class="cf1">, THCS, THPT FPT Vinh </span><span class="cf1">tại</span><span class="cf1"> K</span><span class="cf2">ĐT Eco Central Park (</span><span class="cf2">phư</span><span class="cf1">ờng</span><span class="cf1"> </span><span class="cf1">Tr</span><span class="cf2">ư</span><span class="cf1">ờng</span><span class="cf1"> Vinh, </span><span class="cf1">tỉnh</span><span class="cf1"> </span><span class="cf1">Nghệ</span><span class="cf1"> An). </span><span class="cf2">Đ</span><span class="cf0">&acirc;y</span><span class="cf0"> </span><span class="cf0">l&agrave;</span><span class="cf0"> tr</span><span class="cf3">ư</span><span class="cf1">ờng phổ </span><span class="cf1">th</span><span class="cf0">&ocirc;ng</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ầu </span><span class="cf1">ti</span><span class="cf0">&ecirc;n</span><span class="cf0"> c</span><span class="cf1">ủa FPT tại Nghệ An </span><span class="cf1">v</span><span class="cf0">&agrave;</span><span class="cf0"> </span><span class="cf0">l&agrave;</span><span class="cf0"> tr</span><span class="cf3">ư</span><span class="cf1">ờng thứ 7 thuộc hệ thống FPT Schools tại khu vực miền Trung, nhằm </span><span class="cf1">g</span><span class="cf0">&oacute;p</span><span class="cf0"> ph</span><span class="cf1">ần </span><span class="cf1">x</span><span class="cf0">&acirc;y</span><span class="cf0"> d</span><span class="cf1">ựng nguồn </span><span class="cf1">nh</span><span class="cf0">&acirc;n</span><span class="cf0"> l</span><span class="cf1">ực chất l</span><span class="cf2">ư</span><span class="cf1">ợng cao </span><span class="cf2">đ</span><span class="cf1">ể thực thi hiệu quả Nghị quyết 57-NQ/TW </span><span class="cf1">v</span><span class="cf0">&agrave;</span><span class="cf0"> Ngh</span><span class="cf1">ị quyết số 71-NQ/TW.</span></p>
+                                </div>
+                            </div>
+                            <div>
+                                <a class="fpt-btn" href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-khoi-cong-truong-pho-thong-lien-cap-dau-tien-tai-nghe-an" target="_blank">
+                                    XEM TH&#202;M
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="slick-item-container d-flex flex-column">
+                    <div class="slick-item__image">
+                        <a href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-dong-hanh-trien-khai-du-an-may-khu-rung-tim-tu-dong-cho-cong-dong-dau-tien-tai-viet-nam">
+                           <picture class="lazyload" >
+	<source media="(min-width: 1025px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-trien-khai-du-an-may-khu-rung-tim-cho-cong-dong_01.jpeg">
+	<source media="(min-width: 768px) and (max-width: 1024px)" data-srcset="">
+	<source media="(max-width: 767px)" data-srcset="">
+	<img data-src="" alt="slider">
+</picture>
+                        </a>
+                    </div>
+                    <div class="slick-item__content p-l-20-lg p-r-20-lg">
+                        <div class="slick-item__content-container d-flex flex-column justify-content-between">
+                            <div class="slick-item__content-top">
+                                <h2 class="fpt-h2 strim-line-3 m-b-20" ><p><span class="cf0">FPT </span><span class="cf1">đ</span><span class="cf2">ồng </span><span class="cf2">h</span><span class="cf0">&agrave;nh</span><span class="cf0"> tri</span><span class="cf2">ển khai dự </span><span class="cf0">&aacute;n </span><span class="cf0">m&aacute;y</span><span class="cf0"> kh</span><span class="cf2">ử rung </span><span class="cf2">tim</span><span class="cf2"> </span><span class="cf2">tự</span><span class="cf2"> </span><span class="cf3">đ</span><span class="cf2">ộng (AED) </span><span class="cf2">cho</span><span class="cf2"> </span><span class="cf2">cộng</span><span class="cf2"> </span><span class="cf3">đ</span><span class="cf2">ồng</span><span class="cf2"> </span><span class="cf3">đ</span><span class="cf2">ầu</span><span class="cf2"> </span><span class="cf2">ti</span><span class="cf0">&ecirc;n</span><span class="cf0"> t</span><span class="cf2">ại Việt Nam</span></p></h2>
+                                <div class="strim-line-9">
+                                    <p><span class="cf0">T</span><span class="cf1">ập </span><span class="cf2">đo</span><span class="cf0">&agrave;n FPT </span><span class="cf0">v&agrave;</span><span class="cf0"> B</span><span class="cf1">ệnh viện </span><span class="cf2">Đ</span><span class="cf1">ại </span><span class="cf1">học</span><span class="cf1"> Y H</span><span class="cf0">&agrave; N</span><span class="cf1">ội </span><span class="cf1">c</span><span class="cf0">&ocirc;ng</span><span class="cf0"> </span><span class="cf0">b</span><span class="cf1">ố</span><span class="cf1"> hợp t</span><span class="cf0">&aacute;c tri</span><span class="cf1">ển khai dự </span><span class="cf0">&aacute;n</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ặt </span><span class="cf1">m</span><span class="cf0">&aacute;y</span><span class="cf0"> kh</span><span class="cf1">ử rung tim tự </span><span class="cf2">đ</span><span class="cf1">ộng (AED) cho cộng </span><span class="cf2">đ</span><span class="cf1">ồng lần </span><span class="cf2">đ</span><span class="cf1">ầu </span><span class="cf1">ti</span><span class="cf0">&ecirc;n</span><span class="cf0"> t</span><span class="cf1">ại Việt Nam. Mục </span><span class="cf1">ti</span><span class="cf0">&ecirc;u</span><span class="cf0"> c</span><span class="cf1">ủa dự </span><span class="cf0">&aacute;n</span><span class="cf0"> </span><span class="cf0">l&agrave;</span><span class="cf0"> </span><span class="cf0">n&acirc;ng</span><span class="cf0"> </span><span class="cf0">cao</span><span class="cf0"> nh</span><span class="cf1">ận thức, kỹ n</span><span class="cf2">ăng </span><span class="cf2">v</span><span class="cf0">&agrave;</span><span class="cf0"> b</span><span class="cf1">ổ sung trang thiết bị s</span><span class="cf2">ơ c</span><span class="cf1">ứu, từ </span><span class="cf2">đ</span><span class="cf0">&oacute;</span><span class="cf0"> </span><span class="cf0">n&acirc;ng</span><span class="cf0"> </span><span class="cf0">cao</span><span class="cf0"> hi</span><span class="cf1">ệu quả cấp cứu ban </span><span class="cf2">đ</span><span class="cf1">ầu tại </span><span class="cf1">cộng</span><span class="cf1"> </span><span class="cf2">đ</span><span class="cf1">ồng, </span><span class="cf2">đ</span><span class="cf1">ặc</span><span class="cf1"> biệt trong </span><span class="cf1">c</span><span class="cf0">&aacute;c</span><span class="cf0"> t&igrave;nh hu</span><span class="cf1">ống ngừng tuần </span><span class="cf1">ho</span><span class="cf0">&agrave;n</span><span class="cf0"> x</span><span class="cf1">ảy ra </span><span class="cf1">ngo</span><span class="cf0">&agrave;i</span><span class="cf0"> </span><span class="cf0">c</span><span class="cf3">ơ</span><span class="cf3"> s</span><span class="cf1">ở y tế.</span></p>
+                                </div>
+                            </div>
+                            <div>
+                                <a class="fpt-btn" href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-dong-hanh-trien-khai-du-an-may-khu-rung-tim-tu-dong-cho-cong-dong-dau-tien-tai-viet-nam" target="_blank">
+                                    XEM TH&#202;M
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="slick-item-container d-flex flex-column">
+                    <div class="slick-item__image">
+                        <a href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-mua-10-phan-tram-co-phan-cua-cong-ty-cong-nghe-hang-dau-malaysia">
+                           <picture class="lazyload" >
+	<source media="(min-width: 1025px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-mua-10-phan-tram-co-phan-cong-ty-cong-nghe-hang-dau-malaysia.jpeg">
+	<source media="(min-width: 768px) and (max-width: 1024px)" data-srcset="">
+	<source media="(max-width: 767px)" data-srcset="">
+	<img data-src="" alt="slider">
+</picture>
+                        </a>
+                    </div>
+                    <div class="slick-item__content p-l-20-lg p-r-20-lg">
+                        <div class="slick-item__content-container d-flex flex-column justify-content-between">
+                            <div class="slick-item__content-top">
+                                <h2 class="fpt-h2 strim-line-3 m-b-20" ><p class="pf0"><span class="cf0">T</span><span class="cf1">ập </span><span class="cf2">đo</span><span class="cf0">&agrave;n</span><span class="cf0"> FPT </span><span class="cf0">mua</span><span class="cf0"> 10% c</span><span class="cf1">ổ phần của Daythree, mở rộng hoạt </span><span class="cf2">đ</span><span class="cf1">ộng tại khu vực </span><span class="cf1">ch</span><span class="cf0">&acirc;u</span><span class="cf0"> &Aacute; - </span><span class="cf0">Th&aacute;i</span><span class="cf0"> </span><span class="cf0">B&igrave;nh</span><span class="cf0"> D</span><span class="cf3">ương</span></p></h2>
+                                <div class="strim-line-9">
+                                    <p><span class="cf0">T</span><span class="cf1">ập </span><span class="cf2">đo</span><span class="cf0">&agrave;n</span><span class="cf0"> FPT </span><span class="cf0">c&ocirc;ng</span><span class="cf0"> b</span><span class="cf1">ố </span><span class="cf2">đ</span><span class="cf1">ầu t</span><span class="cf2">ư chi</span><span class="cf1">ến l</span><span class="cf2">ư</span><span class="cf1">ợc </span><span class="cf1">v</span><span class="cf0">&agrave;o</span><span class="cf0"> </span><span class="cf0">c&ocirc;ng</span><span class="cf0"> ty </span><span class="cf0">Daythree</span><span class="cf0"> Digital </span><span class="cf0">Berhad</span><span class="cf0"> (</span><span class="cf0">Daythree</span><span class="cf0">), </span><span class="cf0">nh&agrave;</span><span class="cf0"> </span><span class="cf0">cung</span><span class="cf0"> c</span><span class="cf1">ấp dịch vụ vận </span><span class="cf1">h</span><span class="cf0">&agrave;nh</span><span class="cf0"> </span><span class="cf0">quy</span><span class="cf0"> </span><span class="cf0">tr&igrave;nh</span><span class="cf0"> </span><span class="cf0">kinh</span><span class="cf0"> </span><span class="cf0">doanh</span><span class="cf0"> </span><span class="cf0">v&agrave;</span><span class="cf0"> qu</span><span class="cf1">ản </span><span class="cf1">l</span><span class="cf0">&yacute;</span><span class="cf0"> h</span><span class="cf1">ệ thống </span><span class="cf1">h</span><span class="cf0">&agrave;ng</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ầu tại Malaysia. Th</span><span class="cf2">ương v</span><span class="cf1">ụ </span><span class="cf1">n</span><span class="cf0">&agrave;y</span><span class="cf0"> </span><span class="cf3">đư</span><span class="cf1">ợc kỳ vọng </span><span class="cf1">th</span><span class="cf0">&uacute;c</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ẩy t</span><span class="cf2">ăng </span><span class="cf2">trư</span><span class="cf1">ởng</span><span class="cf1"> </span><span class="cf1">của</span><span class="cf1"> </span><span class="cf1">Tập</span><span class="cf1"> </span><span class="cf2">đo</span><span class="cf0">&agrave;n</span><span class="cf0"> FPT </span><span class="cf0">trong</span><span class="cf0"> </span><span class="cf0">l</span><span class="cf3">ĩnh</span><span class="cf3"> v</span><span class="cf1">ực quản </span><span class="cf1">l</span><span class="cf0">&yacute;</span><span class="cf0"> </span><span class="cf0">quy</span><span class="cf0"> </span><span class="cf0">tr&igrave;nh</span><span class="cf0"> kinh doanh (BPS), </span><span class="cf3">đ</span><span class="cf1">ặc biệt </span><span class="cf1">l</span><span class="cf0">&agrave;</span><span class="cf0"> m</span><span class="cf1">ảng BPS </span><span class="cf1">t</span><span class="cf0">&iacute;ch</span><span class="cf0"> h</span><span class="cf1">ợp AI </span><span class="cf1">v</span><span class="cf0">&agrave;</span><span class="cf0"> n&acirc;ng cao </span><span class="cf0">n</span><span class="cf3">ăng</span><span class="cf3"> l</span><span class="cf1">ực triển khai dịch vụ cho </span><span class="cf1">c</span><span class="cf0">&aacute;c</span><span class="cf0"> doanh nghi</span><span class="cf1">ệp </span><span class="cf1">quy</span><span class="cf1"> </span><span class="cf1">m</span><span class="cf0">&ocirc;</span><span class="cf0"> l</span><span class="cf1">ớn ở khu vực </span><span class="cf1">ch</span><span class="cf0">&acirc;u</span><span class="cf0"> &Aacute; - </span><span class="cf0">Th&aacute;i</span><span class="cf0"> </span><span class="cf0">B&igrave;nh</span><span class="cf0"> </span><span class="cf0">D</span><span class="cf3">ương</span><span class="cf3">. FPT tri</span><span class="cf1">ển </span><span class="cf1">khai</span><span class="cf1"> </span><span class="cf1">th</span><span class="cf2">ương</span><span class="cf2"> </span><span class="cf2">v</span><span class="cf1">ụ</span><span class="cf1"> </span><span class="cf1">n</span><span class="cf0">&agrave;y</span><span class="cf0"> </span><span class="cf0">th&ocirc;ng</span><span class="cf0"> qua </span><span class="cf0">c&ocirc;ng</span><span class="cf0"> ty th&agrave;nh vi&ecirc;n t</span><span class="cf1">ại Malaysia.&nbsp;</span><span class="cf1">Với </span><span class="cf1">tỷ</span><span class="cf1"> </span><span class="cf1">lệ</span><span class="cf1"> </span><span class="cf1">sở</span><span class="cf1"> </span><span class="cf1">hữu</span><span class="cf1"> 10% cổ phần, Tập </span><span class="cf2">đo</span><span class="cf0">&agrave;n</span><span class="cf0"> FPT </span><span class="cf0">l&agrave;</span><span class="cf0"> </span><span class="cf0">nh&agrave;</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ầu t</span><span class="cf2">ư nư</span><span class="cf1">ớc </span><span class="cf1">ngo</span><span class="cf0">&agrave;i</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ầu </span><span class="cf1">ti</span><span class="cf0">&ecirc;n</span><span class="cf0"> c</span><span class="cf1">ủa </span><span class="cf1">Daythree</span><span class="cf1">.&nbsp;</span></p>
+<p>&nbsp;</p>
+                                </div>
+                            </div>
+                            <div>
+                                <a class="fpt-btn" href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-mua-10-phan-tram-co-phan-cua-cong-ty-cong-nghe-hang-dau-malaysia" target="_blank">
+                                    XEM TH&#202;M
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="slick-item-container d-flex flex-column">
+                    <div class="slick-item__image">
+                        <a href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-ky-ket-hop-tac-chuyen-doi-so-toan-dien-voi-tinh-ca-mau">
+                           <picture class="lazyload" >
+	<source media="(min-width: 1025px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-ky-ket-thoa-thuan-hop-tac-chuyen-doi-so-voi-tinh-ca-mau_03.jpg">
+	<source media="(min-width: 768px) and (max-width: 1024px)" data-srcset="">
+	<source media="(max-width: 767px)" data-srcset="">
+	<img data-src="" alt="slider">
+</picture>
+                        </a>
+                    </div>
+                    <div class="slick-item__content p-l-20-lg p-r-20-lg">
+                        <div class="slick-item__content-container d-flex flex-column justify-content-between">
+                            <div class="slick-item__content-top">
+                                <h2 class="fpt-h2 strim-line-3 m-b-20" ><p><span class="cf0">FPT </span><span class="cf1">đ</span><span class="cf2">ồng </span><span class="cf2">h</span><span class="cf0">&agrave;nh</span><span class="cf0"> c&ugrave;ng t</span><span class="cf2">ỉnh C</span><span class="cf0">&agrave; Mau </span><span class="cf0">chuy</span><span class="cf2">ển</span><span class="cf2"> </span><span class="cf3">đ</span><span class="cf2">ổi số </span><span class="cf2">v</span><span class="cf0">&agrave;</span><span class="cf0"> ph&aacute;t tri</span><span class="cf2">ển </span><span class="cf2">nguồn</span><span class="cf2"> </span><span class="cf2">nh</span><span class="cf0">&acirc;n</span><span class="cf0"> </span><span class="cf0">l</span><span class="cf2">ực</span><span class="cf2"> </span><span class="cf2">chất</span><span class="cf2"> </span><span class="cf2">l</span><span class="cf3">ư</span><span class="cf2">ợng</span><span class="cf2"> cao</span></p></h2>
+                                <div class="strim-line-9">
+                                    <p><span class="cf0">T</span><span class="cf1">ập </span><span class="cf2">đo</span><span class="cf0">&agrave;n FPT v&agrave; UBND t</span><span class="cf1">ỉnh C</span><span class="cf0">&agrave; Mau k&yacute; k</span><span class="cf1">ết thỏa thuận hợp t</span><span class="cf0">&aacute;c chuy</span><span class="cf1">ển </span><span class="cf2">đ</span><span class="cf1">ổi số to</span><span class="cf0">&agrave;n di</span><span class="cf1">ện nhằm huy </span><span class="cf2">đ</span><span class="cf1">ộng nguồn lực </span><span class="cf2">đ</span><span class="cf1">ể x</span><span class="cf0">&acirc;y d</span><span class="cf1">ựng nền tảng số, n</span><span class="cf0">&acirc;ng cao hi</span><span class="cf1">ệu lực quản l</span><span class="cf0">&yacute;, </span><span class="cf3">đi</span><span class="cf1">ều h</span><span class="cf0">&agrave;nh c</span><span class="cf1">ủa ch</span><span class="cf0">&iacute;nh quy</span><span class="cf1">ền, th</span><span class="cf0">&uacute;c </span><span class="cf3">đ</span><span class="cf1">ẩy ph</span><span class="cf0">&aacute;t tri</span><span class="cf1">ển kinh tế số, x</span><span class="cf0">&atilde; h</span><span class="cf1">ội số, </span><span class="cf2">đưa C</span><span class="cf0">&agrave; Mau tr</span><span class="cf1">ở th</span><span class="cf0">&agrave;nh m</span><span class="cf1">ột trong những </span><span class="cf2">đ</span><span class="cf1">ịa ph</span><span class="cf2">ương d</span><span class="cf1">ẫn </span><span class="cf2">đ</span><span class="cf1">ầu về chuyển </span><span class="cf2">đ</span><span class="cf1">ổi số tại Việt Nam.</span></p>
+                                </div>
+                            </div>
+                            <div>
+                                <a class="fpt-btn" href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-ky-ket-hop-tac-chuyen-doi-so-toan-dien-voi-tinh-ca-mau" target="_blank">
+                                    XEM TH&#202;M
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="item">
+                <div class="slick-item-container d-flex flex-column">
+                    <div class="slick-item__image">
+                        <a href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-hop-tac-future-processing-thuc-day-chuyen-doi-so-toan-cau">
+                           <picture class="lazyload" >
+	<source media="(min-width: 1025px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-hop-tac-voi-future-processing.jpg">
+	<source media="(min-width: 768px) and (max-width: 1024px)" data-srcset="">
+	<source media="(max-width: 767px)" data-srcset="">
+	<img data-src="" alt="slider">
+</picture>
+                        </a>
+                    </div>
+                    <div class="slick-item__content p-l-20-lg p-r-20-lg">
+                        <div class="slick-item__content-container d-flex flex-column justify-content-between">
+                            <div class="slick-item__content-top">
+                                <h2 class="fpt-h2 strim-line-3 m-b-20" ><p><span class="cf0">FPT V&agrave; Future Processing h</span><span class="cf1">ợp </span><span class="cf1">t</span><span class="cf0">&aacute;c</span><span class="cf0"> chi</span><span class="cf1">ến l</span><span class="cf2">ư</span><span class="cf1">ợc </span><span class="cf1">nhằm</span><span class="cf1"> th</span><span class="cf0">&uacute;c </span><span class="cf3">đ</span><span class="cf1">ẩy </span><span class="cf1">chuyển</span><span class="cf1"> </span><span class="cf2">đ</span><span class="cf1">ổi</span><span class="cf1"> </span><span class="cf1">số</span><span class="cf1"> </span><span class="cf1">to</span><span class="cf0">&agrave;n</span><span class="cf0"> c</span><span class="cf1">ầu</span></p></h2>
+                                <div class="strim-line-9">
+                                    <p><span class="cf0">V</span><span class="cf1">ừa qua, FPT </span><span class="cf2">đ</span><span class="cf0">&atilde;</span><span class="cf0"> k&yacute; bi&ecirc;n b</span><span class="cf1">ản ghi </span><span class="cf1">nhớ</span><span class="cf1"> với Future Processing - </span><span class="cf1">c</span><span class="cf0">&ocirc;ng</span><span class="cf0"> ty </span><span class="cf0">c&ocirc;ng</span><span class="cf0"> </span><span class="cf0">ngh</span><span class="cf1">ệ</span><span class="cf1"> </span><span class="cf1">h</span><span class="cf0">&agrave;ng</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ầu</span><span class="cf1"> </span><span class="cf1">ch</span><span class="cf0">&acirc;u</span><span class="cf0"> </span><span class="cf0">&Acirc;u</span><span class="cf0">, </span><span class="cf0">nh</span><span class="cf1">ằm</span><span class="cf1"> </span><span class="cf1">th</span><span class="cf0">&uacute;c</span><span class="cf0"> </span><span class="cf3">đ</span><span class="cf1">ẩy</span><span class="cf1"> </span><span class="cf1">chuyển</span><span class="cf1"> </span><span class="cf2">đ</span><span class="cf1">ổi</span><span class="cf1"> </span><span class="cf1">số</span><span class="cf1"> </span><span class="cf1">trong</span><span class="cf1"> </span><span class="cf1">l</span><span class="cf2">ĩnh</span><span class="cf2"> </span><span class="cf2">v</span><span class="cf1">ực</span><span class="cf1"> </span><span class="cf1">ng</span><span class="cf0">&acirc;n</span><span class="cf0"> </span><span class="cf0">h&agrave;ng</span><span class="cf0">, </span><span class="cf0">t&agrave;i</span><span class="cf0"> </span><span class="cf0">ch&iacute;nh</span><span class="cf0"> </span><span class="cf0">v&agrave;</span><span class="cf0"> b</span><span class="cf1">ảo hiểm </span><span class="cf1">tr</span><span class="cf0">&ecirc;n</span><span class="cf0"> to&agrave;n </span><span class="cf0">c</span><span class="cf1">ầu</span><span class="cf1"> trong v</span><span class="cf0">&ograve;ng ba n</span><span class="cf3">ăm t</span><span class="cf1">ới.</span><span class="cf0"> </span><span class="cf0">B</span><span class="cf1">ằng</span><span class="cf1"> </span><span class="cf1">c</span><span class="cf0">&aacute;ch</span><span class="cf0"> k</span><span class="cf1">ết hợp </span><span class="cf1">chuy</span><span class="cf0">&ecirc;n</span><span class="cf0"> </span><span class="cf0">m&ocirc;n</span><span class="cf0"> </span><span class="cf0">s&acirc;u</span><span class="cf0"> r</span><span class="cf1">ộng trong ng</span><span class="cf0">&agrave;nh b</span><span class="cf1">ảo hiểm của Future Processing </span><span class="cf1">c</span><span class="cf0">&ugrave;ng</span><span class="cf0"> v</span><span class="cf1">ới n</span><span class="cf2">ăng l</span><span class="cf1">ực triển khai </span><span class="cf1">to</span><span class="cf0">&agrave;n</span><span class="cf0"> c</span><span class="cf1">ầu của FPT, hai </span><span class="cf1">b</span><span class="cf0">&ecirc;n</span><span class="cf0"> s</span><span class="cf1">ẽ mang </span><span class="cf2">đ</span><span class="cf1">ến cho </span><span class="cf1">c</span><span class="cf0">&aacute;c</span><span class="cf0"> </span><span class="cf0">doanh</span><span class="cf0"> nghi</span><span class="cf1">ệp </span><span class="cf1">c</span><span class="cf0">&aacute;c</span><span class="cf0"> gi</span><span class="cf1">ải </span><span class="cf1">ph</span><span class="cf0">&aacute;p</span><span class="cf0"> </span><span class="cf0">th&ocirc;ng</span><span class="cf0"> </span><span class="cf0">minh</span><span class="cf0">, hi</span><span class="cf1">ệu quả </span><span class="cf1">v</span><span class="cf0">&agrave;</span><span class="cf0"> </span><span class="cf0">c&oacute;</span><span class="cf0"> kh</span><span class="cf1">ả n</span><span class="cf2">ăng m</span><span class="cf1">ở rộng. </span><span class="cf2">Đ</span><span class="cf1">ồng thời, hợp </span><span class="cf1">t</span><span class="cf0">&aacute;c</span><span class="cf0"> </span><span class="cf0">n&agrave;y</span><span class="cf0"> </span><span class="cf0">c&ograve;n</span><span class="cf0"> </span><span class="cf0">gi&uacute;p</span><span class="cf0"> </span><span class="cf0">hai</span><span class="cf0"> </span><span class="cf0">b&ecirc;n</span><span class="cf0"> </span><span class="cf0">t</span><span class="cf3">ăng</span><span class="cf3"> cư</span><span class="cf1">ờng </span><span class="cf1">ph</span><span class="cf0">&aacute;t</span><span class="cf0"> tri</span><span class="cf1">ển thị tr</span><span class="cf2">ư</span><span class="cf1">ờng Bắc Mỹ </span><span class="cf1">v</span><span class="cf0">&agrave;</span><span class="cf0"> </span><span class="cf0">ch&acirc;u</span><span class="cf0"> </span><span class="cf0">&Acirc;u</span><span class="cf0">.</span></p>
+                                </div>
+                            </div>
+                            <div>
+                                <a class="fpt-btn" href="https://fpt.com/vi/tin-tuc/tin-fpt/fpt-hop-tac-future-processing-thuc-day-chuyen-doi-so-toan-cau" target="_blank">
+                                    XEM TH&#202;M
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="component fpt-container m-t-50-mb m-t-90">
+    <div class="component-content" >
+
+<div class="component our-mission">
+    <div class="component-content">
+<div class="our-mission__top container-grid-10"><div class="component-content"><div class="row"><div class="our-mission__top-intro col-xl-4 col-sm-12"><h2 class="fpt-h2-home field-name">Tầm nh&#236;n chiến lược</h2><p class="fpt-p-home-content">FPT tiếp tục theo đuổi mục tiêu lớn dài hạn trở thành doanh nghiệp số và đứng trong Top 50 Công ty hàng đầu thế giới về cung cấp dịch vụ, giải pháp chuyển đổi số toàn diện vào năm 2030. Để đạt được mục tiêu này, FPT xây dựng các chương trình hành động cân bằng, toàn diện ở cả ba khía cạnh.</p>
+<a rel="noopener noreferrer" target="_blank" href="https://fpt.com.vn/vi/ve-fpt/tam-nhin-chien-luoc" class="see-more-text">Xem thêm</a></div><div class="our-mission__top-detail col-xl-8 col-sm-12"><div class="our-mission__top-detail-items"> <div class="our-mission__top-detail-items__item">
+                                                            <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/operative/kinh-doanh.svg" alt="kinh-doanh">
+                                                            <h3 class="fpt-h3-home">Kinh doanh</h3>
+                                                            <p class="fpt-p-home-content">Ch&#250;ng t&#244;i đầu tư, nghi&#234;n cứu ph&#225;t triển c&#225;c dịch vụ, giải ph&#225;p chuyển đổi số to&#224;n diện đ&#225;p ứng nhu cầu của kh&#225;ch h&#224;ng ở mọi quy m&#244;, lĩnh vực.</p>
+                                                        </div> <div class="our-mission__top-detail-items__item">
+                                                            <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/forceful/cong-nghe.svg" alt="cong-nghe">
+                                                            <h3 class="fpt-h3-home">C&#244;ng nghệ</h3>
+                                                            <p class="fpt-p-home-content">Ch&#250;ng t&#244;i lu&#244;n tiếp cận những xu hướng c&#244;ng nghệ mới nhất để ph&#225;t triển c&#225;c nền tảng, c&#244;ng nghệ l&#245;i v&#224; gia tăng trải nghiệm kh&#225;ch h&#224;ng, hiệu quả vận h&#224;nh.</p>
+                                                        </div> <div class="our-mission__top-detail-items__item">
+                                                            <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/proficient/con-nguoi.svg" alt="con-nguoi">
+                                                            <h3 class="fpt-h3-home">Con người</h3>
+                                                            <p class="fpt-p-home-content">Ch&#250;ng t&#244;i cam kết x&#226;y dựng một m&#244;i trường l&#224;m việc c&#244;ng bằng, minh bạch, kh&#244;ng ph&#226;n biệt đối xử.</p>
+                                                        </div></div></div><div class="our-mission__top-detail-mobie col-12"><style nonce="aHR0cHM6Ly9mcHQuY29t">
+    .csp-s-font-style {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 20px;
+    }
+</style>
+
+<a class="item-" href="#">
+    <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/operative/kinh-doanh.svg" alt="kinh-doanh">
+    <div class="csp-s-font-style">Kinh doanh</div>
+</a>
+<style nonce="aHR0cHM6Ly9mcHQuY29t">
+    .csp-s-font-style {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 20px;
+    }
+</style>
+
+<a class="item-" href="#">
+    <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/forceful/cong-nghe.svg" alt="cong-nghe">
+    <div class="csp-s-font-style">C&#244;ng nghệ</div>
+</a>
+<style nonce="aHR0cHM6Ly9mcHQuY29t">
+    .csp-s-font-style {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 20px;
+    }
+</style>
+
+<a class="item-" href="#">
+    <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/proficient/con-nguoi.svg" alt="con-nguoi">
+    <div class="csp-s-font-style">Con người</div>
+</a>
+</div></div></div></div><div class="our-mission__bottom m-t-40-mb m-t-30-elg"><div class="container-grid-10"><div class="d-flex flex-wrap"><div class="our-mission__bottom__left">  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/home/our-mission/common/fptfff7ef2x.png">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="">
+	<source media="(max-width: 375px)"  data-srcset="">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/home/our-mission/common/fptfff7ef2x.png" alt="FPTFFF7EF2x">
+</picture></div><div class="our-mission__bottom__right"><div class="our-mission__bottom__right-wrap fpt-modal-wrap">
+                                                       <h2 class="fpt-h2-home">Made by FPT<br /></h2>
+                                                        <p class="fpt-p-home-content">Dựa trên những công nghệ mới nhất, hệ sinh thái Made by FPT giúp doanh nghiệp, tổ chức trong mọi lĩnh vực đẩy nhanh quá trình chuyển đổi số, gia tăng năng suất, tiết kiệm chi phí, tận dụng tối đa nguồn lực để vượt qua các thách thức.</p>
+                                                        <span class="our-mission__play-btn">
+                                                            <a href="#" class="fpt-btn fpt-modal__open-modal">Xem video<span class="icon-play"></span></a>
+                                                        </span>
+                                                        <div class="our-mission-popup fpt-modal">
+                                                            <div class="fpt-modal__content btn-close-top">
+                                                                  <iframe class="fpt-modal__content_iframe"  width="560" height="315" controls data-src="https://www.youtube.com/embed/DhsXMOPt7OA?list=PLX675TEETlQaDiNWDfxGM0qVG3D1XoVQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                              
+                                                                <button class="fpt-modal__btn-close"><span class="icon-close"></span></button>
+                                                            </div>
+                                                        </div>
+                                                    </div></div></div></div></div>
+    </div>
+</div>
+    </div>
+</div>
+
+
+<div class="component fpt-container m-t-50-lg m-t-90 p-b-0-mb">
+    <div class="component-content" >
+
+
+
+<div class="component fpt-container container-grid-10">
+    <div class="component-content" >
+
+<div class="component our-business">
+    <div class="component-content">
+<div class="block-our-business">
+<div class="row">
+<div class="col-lg-9 col-md-12 col-xs-12">
+<div class="block-our-business-title">Hệ sinh th&#225;i FPT</div>
+<span class="block-our-business-desc-title">
+FPT luôn khẳng định vị thế tiên phong trong các lĩnh vực Công nghệ, Viễn thông và Giáo dục. Đón đầu xu hướng công nghệ, thị trường, FPT tạo dựng Hệ sinh thái những dịch vụ, sản phẩm, giải pháp, nền tảng Made by FPT thúc đẩy sự phát triển, tăng trưởng bền vững của các tổ chức, doanh nghiệp cũng như mang đến những trải nghiệm mới, khác biệt cho người dùng.
+</span>
+</div>
+</div>
+<div class="items">																																											
+
+<div class="item"><div class="inner-item">
+<div class="our-business-image">
+<div title="our-business">
+  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/technology/cong-nghe_home.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/technology/cong_nghe_home-mobile.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/technology/cong-nghe_home.jpg">
+	<img data-src="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/technology/cong-nghe_home.jpg" alt= "">
+</picture>
+
+</div>
+</div>
+<div class="our-business-info">
+<div class="our-business-info-inner">
+<h2 class="our-business-item-title">C&#244;ng nghệ</h2>
+<div class="our-business-item-desc">
+FPT l&#224; đối t&#225;c chiến lược quan trọng về tư vấn, đ&#224;o tạo, triển khai chuyển đổi số của c&#225;c tập đo&#224;n, tổ chức h&#224;ng đầu tr&#234;n thế giới v&#224; tại Việt Nam trong nhiều lĩnh vực.
+</div>
+<a href="/vi/he-sinh-thai-fpt/cong-nghe" target="_blank" class="see-more-text">Xem thêm</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="item"><div class="inner-item">
+<div class="our-business-image">
+<div title="our-business">
+  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/telecommunications/vien-thong_home.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/telecommunications/vien_thong_home-mobile.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/telecommunications/vien_thong_home-mobile.jpg">
+	<img data-src="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/telecommunications/vien-thong_home.jpg" alt= "">
+</picture>
+
+</div>
+</div>
+<div class="our-business-info">
+<div class="our-business-info-inner">
+<h2 class="our-business-item-title">Viễn th&#244;ng</h2>
+<div class="our-business-item-desc">
+Ch&#250;ng t&#244;i kh&#244;ng ngừng đầu tư, triển khai v&#224; t&#237;ch hợp ng&#224;y c&#224;ng nhiều c&#225;c dịch vụ gi&#225; trị gia tăng tr&#234;n c&#249;ng một đường truyền Internet v&#224; kiến tạo hệ sinh th&#225;i truyền th&#244;ng số.
+</div>
+<a href="/vi/he-sinh-thai-fpt/vien-thong" target="_blank" class="see-more-text">Xem thêm</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="item"><div class="inner-item">
+<div class="our-business-image">
+<div title="our-business">
+  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/education/giao-duc_home.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/education/giao-duc_home.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/education/giao-duc_home.jpg">
+	<img data-src="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/education/giao-duc_home.jpg" alt= "">
+</picture>
+
+</div>
+</div>
+<div class="our-business-info">
+<div class="our-business-info-inner">
+<h2 class="our-business-item-title">Gi&#225;o dục</h2>
+<div class="our-business-item-desc">
+L&#224; thương hiệu gi&#225;o dục c&#243; tầm ảnh hưởng quốc tế, Tổ chức Gi&#225;o dục FPT đ&#227; mở rộng đầy đủ c&#225;c cấp học g&#243;p phần cung cấp nguồn nh&#226;n lực chất lượng cao cho thị trường.
+</div>
+<a href="/vi/he-sinh-thai-fpt/giao-duc" target="_blank" class="see-more-text">Xem thêm</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="item"><div class="inner-item">
+<div class="our-business-image">
+<div title="our-business">
+  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/membercompanies/fpt-tower-3.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/membercompanies/fpt-tower-3-mobile.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/membercompanies/fpt-tower-3-mobile.jpg">
+	<img data-src="/-/media/project/fpt-corporation/fpt/common/fpt/our-business/membercompanies/fpt-tower-3.jpg" alt= "">
+</picture>
+
+</div>
+</div>
+<div class="our-business-info">
+<div class="our-business-info-inner">
+<h2 class="our-business-item-title">C&#244;ng ty th&#224;nh vi&#234;n</h2>
+<div class="our-business-item-desc">
+C&#244;ng ty th&#224;nh vi&#234;n với c&#225;c lĩnh vực kinh doanh đặc trưng l&#224; th&#224;nh tố quan trọng cấu th&#224;nh hệ sinh th&#225;i FPT, khẳng định sức mạnh tổng thể của FPT.
+</div>
+<a href="/vi/he-sinh-thai-fpt/cong-ty-thanh-vien" target="_blank" class="see-more-text">Xem thêm</a>
+</div>
+</div>
+</div>
+</div>
+														
+</div>														
+</div>
+    </div>
+</div>
+    </div>
+</div>    </div>
+</div>
+
+
+<div class="component fpt-container fpt-feature-news-background m-t-45 p-t-35">
+    <div class="component-content" >
+
+
+
+<div class="component fpt-container container-grid-10">
+    <div class="component-content" >
+
+<div class="component featured-news p-b-95 p-b-35-mb">
+    <div class="component-content">
+<div class="featured-news__top row"><div class="featured-news__top__title col-6"><h2 class="fpt-h2-home field-title">Tin tức nổi bật</h2></div><div class="featured-news__top__right-btn col-6"><div class="featured-news__top__right-btn__show-more d-flex justify-content-end">
+<a href="/vi/tin-tuc" class="fpt-btn featured-news__button-show-more">Xem th&#234;m</a>
+		
+	
+</div></div></div><div class="featured-news__list row"><div class="featured-news__list__item col-md-12 col-lg-4"><div class="item-wrap"><a href="/vi/tin-tuc/tin-fpt/fpt-mua-10-phan-tram-co-phan-cua-cong-ty-cong-nghe-hang-dau-malaysia" class="item__image">
+       <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-mua-10-phan-tram-co-phan-cong-ty-cong-nghe-hang-dau-malaysia.jpeg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-mua-10-phan-tram-co-phan-cong-ty-cong-nghe-hang-dau-malaysia.jpeg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-mua-10-phan-tram-co-phan-cong-ty-cong-nghe-hang-dau-malaysia.jpeg">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-mua-10-phan-tram-co-phan-cong-ty-cong-nghe-hang-dau-malaysia.jpeg" alt="image detail">
+</picture>
+</a><a href="/vi/tin-tuc/tin-fpt/fpt-mua-10-phan-tram-co-phan-cua-cong-ty-cong-nghe-hang-dau-malaysia" class="item__link">
+														<h3 class="fpt-h3-title">Tập đo&#224;n FPT mua 10% cổ phần của Daythree, mở rộng hoạt động tại khu vực ch&#226;u &#193; - Th&#225;i B&#236;nh Dương</h3>
+													</a>
+ 
+          <span class="item__date-info fpt-date-1">
+               Tin FPT | 19/09/2025
+        </span>
+       
+ </div></div><div class="featured-news__list__item col-md-12 col-lg-4"><div class="item-wrap"><a href="/vi/tin-tuc/tin-fpt/fpt-ky-hop-dong-ky-luc-256-trieu-usd" class="item__image">
+       <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-dang-huong-den-muc-tieu-dua-dong-nam-a-va-chau-a-tro-thanh-mot-trong-nhung-thi-truong-chien-luoc.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-dang-huong-den-muc-tieu-dua-dong-nam-a-va-chau-a-tro-thanh-mot-trong-nhung-thi-truong-chien-luoc.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-dang-huong-den-muc-tieu-dua-dong-nam-a-va-chau-a-tro-thanh-mot-trong-nhung-thi-truong-chien-luoc.jpg">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-dang-huong-den-muc-tieu-dua-dong-nam-a-va-chau-a-tro-thanh-mot-trong-nhung-thi-truong-chien-luoc.jpg" alt="image detail">
+</picture>
+</a><a href="/vi/tin-tuc/tin-fpt/fpt-ky-hop-dong-ky-luc-256-trieu-usd" class="item__link">
+														<h3 class="fpt-h3-title">FPT k&#253; hợp đồng kỷ lục 256 triệu USD với tập đo&#224;n năng lượng h&#224;ng đầu ch&#226;u &#193;</h3>
+													</a>
+ 
+          <span class="item__date-info fpt-date-1">
+               Tin FPT | 16/09/2025
+        </span>
+       
+ </div></div><div class="featured-news__list__item col-md-12 col-lg-4"><div class="item-wrap"><a href="/vi/tin-tuc/tin-fpt/fpt-ky-ket-hop-tac-30-trieu-usd-voi-tap-doan-hang-dau-dong-nam-a" class="item__image">
+       <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-se-trien-khai-cac-giai-phap-ai-bao-phu-toan-bo-chuoi-gia-tri-giup-khach-hang-hinh-thanh-mo-hinh.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-se-trien-khai-cac-giai-phap-ai-bao-phu-toan-bo-chuoi-gia-tri-giup-khach-hang-hinh-thanh-mo-hinh.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-se-trien-khai-cac-giai-phap-ai-bao-phu-toan-bo-chuoi-gia-tri-giup-khach-hang-hinh-thanh-mo-hinh.jpg">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/news/2025/thang-9/fpt-se-trien-khai-cac-giai-phap-ai-bao-phu-toan-bo-chuoi-gia-tri-giup-khach-hang-hinh-thanh-mo-hinh.jpg" alt="image detail">
+</picture>
+</a><a href="/vi/tin-tuc/tin-fpt/fpt-ky-ket-hop-tac-30-trieu-usd-voi-tap-doan-hang-dau-dong-nam-a" class="item__link">
+														<h3 class="fpt-h3-title">FPT k&#253; kết hợp t&#225;c AI mở ra cơ hội l&#234;n đến 30 triệu USD với tập đo&#224;n h&#224;ng đầu Đ&#244;ng Nam &#193;</h3>
+													</a>
+ 
+          <span class="item__date-info fpt-date-1">
+               Tin FPT | 16/09/2025
+        </span>
+       
+ </div></div></div>
+    </div>
+</div>
+    </div>
+</div>    </div>
+</div>
+
+
+<div class="component fpt-container">
+    <div class="component-content" >
+    <div class="component two-cols-text-with-image sustainable-development-wrapper">
+        <div class="component-content">
+<div class="sustainable-development-content-wrapper">
+    <div class="container-grid-10">
+        <div class="sustainable-development">
+            <div class="sustainable-left-content">
+                <h2 class="title">Phát triển bền vững</h2>
+                <div class="text-content">
+                    Định hướng v&agrave; những ưu ti&ecirc;n về ESG được xem l&agrave; một phần quan trọng trong chiến lược ph&aacute;t triển của FPT v&agrave; phản &aacute;nh vai tr&ograve;, tr&aacute;ch nhiệm của Tập đo&agrave;n với c&aacute;c b&ecirc;n li&ecirc;n quan trọng yếu. Đồng thời, ESG tạo th&ecirc;m sức mạnh để FPT ph&aacute;t huy gi&aacute; trị cốt l&otilde;i tiếp tục thực hiện sứ mệnh Tập đo&agrave;n to&agrave;n cầu trường tồn v&agrave; hạnh ph&uacute;c.
+                </div>
+                
+                <a href="/vi/ve-fpt/trach-nhiem-xa-hoi" class="see-more-text"
+                    target="">XEM TH&#202;M</a>
+                
+
+            </div>
+            <div class="sustainable-right-content">
+                <img src="/-/media/project/fpt-corporation/fpt/cr/home/sustainable-development/img_sustainable.webp?iar=0&amp;hash=7A4334A34AB2B13C60EE03CC0CD4C4BA" alt="" />
+            </div>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+    </div>
+</div>
+
+
+<div class="component fpt-container">
+    <div class="component-content" >
+    <div class="component two-cols-text-with-image investors-home-wrapper">
+        <div class="component-content">
+<div class="investors-home-content-wrapper">
+    <div class="container-grid-10">
+        <div class="investors-home">
+            <div class="investors-home-left-content">
+                <img src="/-/media/project/fpt-corporation/fpt/cr/home/investors/investors.webp?iar=0&amp;hash=2E9AE8F4E45FEBECD916D7A007A6C6CD" alt="" />
+            </div>
+            <div class="investors-home-right-content">
+                <h2 class="title">Nhà đầu tư</h2>
+                <div class="description">
+Cập nhật th&ocirc;ng tin t&agrave;i ch&iacute;nh to&agrave;n diện v&agrave; c&aacute;c b&aacute;o c&aacute;o mới nhất để c&ugrave;ng FPT	tăng trưởng bền vững.
+</div>
+<div class="link-content-wrapper">
+<div class="content-link hide-on-mobile">
+<a href="https://fpt.com.vn/vi/nha-dau-tu/dai-hoi-co-dong" class="item-link">Đại hội đồng cổ đ&ocirc;ng</a>
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien?tab=1&amp;index=2" class="item-link">B&aacute;o c&aacute;o t&agrave;i ch&iacute;nh</a>
+</div>
+<div class="content-link hide-on-mobile">
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien" class="item-link">B&aacute;o c&aacute;o thường ni&ecirc;n</a>
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien?tab=1&amp;index=3" class="item-link">Kết quả kinh doanh</a>
+</div>
+<div class="content-link hide-on-desktop">
+<a href="https://fpt.com.vn/vi/nha-dau-tu/dai-hoi-co-dong" class="item-link">Đại hội đồng cổ đ&ocirc;ng</a>
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien" class="item-link">B&aacute;o c&aacute;o thường ni&ecirc;n</a>
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien?tab=1&amp;index=2" class="item-link">B&aacute;o c&aacute;o t&agrave;i ch&iacute;nh</a>
+<a href="https://fpt.com.vn/vi/nha-dau-tu/bao-cao-thuong-nien?tab=1&amp;index=3" class="item-link">Kết quả kinh doanh</a>
+</div>
+</div>
+                    <a href="/vi/nha-dau-tu" class="see-more-text"
+                        target="">XEM TH&#202;M</a>
+                                    
+            </div>
+        </div>
+    </div>
+</div>        </div>
+    </div>
+    </div>
+</div>
+
+
+<div class="component fpt-container m-b-30-mb m-t-20">
+    <div class="component-content" >
+
+
+
+<div class="component fpt-container container-grid-10">
+    <div class="component-content" >
+    <div class="component list-items-section list-items-section-image-join-width-us">
+        <div class="component-content">
+<div class="block-join-width-us"><div class="row row-20"><div class="col-lg-9 col-md-12"><div class="info-left"><h2 class="title-info-left field-title-info-left">Tham gia c&#249;ng ch&#250;ng t&#244;i</h2><span class="sub-title-info-left field-sub-title-info-left">C&#249;ng đồng h&#224;nh kiến tạo tương lai.</span></div><div class="image-left">
+          <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us01.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us01-mobile.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us01-mobile.jpg">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us01.jpg" alt="join-width-us">
+</picture>
+       
+</div></div><div class="col-lg-3 col-md-12 block-right"><div class="image-right">
+  <picture class="lazyload">
+	<source media="(min-width: 768px)" data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us02.jpg">
+	<source media="(min-width: 376px) and (max-width: 767px)" data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us02-mobile.jpg">
+	<source media="(max-width: 375px)"  data-srcset="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us02-mobile.jpg">
+	 <img data-src="/-/media/project/fpt-corporation/fpt/home/list-items-section-image/join-width-us02.jpg" alt="join-width-us">
+</picture>
+       
+</div><div class="info-right"><div class="title-info-right field-title-info-right">Đồng h&#224;nh c&#249;ng FPT?</div><span class="desc-info-right field-desc-info-right">Dù là sinh viên mới ra trường hay ứng viên đã có kinh nghiệm, chúng tôi luôn sẵn sàng tạo điều kiện để bạn phát triển tài năng toàn diện nhất. Hãy tìm hiểu thêm về các ngành nghề và cơ hội việc làm tại FPT.</span>
+          <a href="/vi/co-hoi-nghe-nghiep" target="" class="btn-learn-more">
+	           <span>Xem th&#234;m</span>
+	   </a>      
+</div></div></div></div>        </div>
+    </div>
+    </div>
+</div>    </div>
+</div>
+        </div>
+    </main>
+    <!-- /#content -->
+    <!-- #footer -->
+    <footer>
+        <div id="footer" class="">
+            
+
+
+
+<div class="component fpt-container container-grid-10 p-t-40 p-t-40-mb">
+    <div class="component-content" >
+
+
+
+<div class="component fpt-container">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter m-x-0-mb">
+        <div class=" align-items-center col-lg-12 d-flex">
+            
+
+
+
+<div class="component sitecore-form subscribe w-80">
+    <div class="component-content">
+        <form action="/?sc_site=FPT" data-sc-fxb="f52dfe86-f3c5-4c9b-8ecb-130812a10966" enctype="multipart/form-data" id="fxb_2662dd95-652f-4402-9402-143e72b885b4_f52dfe86-f3c5-4c9b-8ecb-130812a10966" method="post"><input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_FormSessionId" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.FormSessionId" type="hidden" value="2cf7726e-1f8a-4673-aeda-90c1df820ac2" /><input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_IsNewSession" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.IsNewSession" type="hidden" value="1" /><input name="__RequestVerificationToken" type="hidden" value="VEYdrNx4tSKqTTvucJgrdYK_ndmAu-yHEe0kosnsWP1rYy6pAhRmvarA5hCqyLyAt0G5i--l12xzXkkLjywrYJ0aA3-qGB2vl-JnQLoxQ5I1" /><input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_FormItemId" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.FormItemId" type="hidden" value="f52dfe86-f3c5-4c9b-8ecb-130812a10966" /><input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_PageItemId" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.PageItemId" type="hidden" value="fa7ef43b-0aba-451e-8fb7-e444c1f7ed96" />
+<div data-sc-field-key="E9EDA44E31704F21AA2ABEAFCA726161" class="row m-x-0">
+    <div data-sc-field-key="EBC4513B41C243B2AE0EB688CBDB368A" class="subscribe-title col-sm-12 col-md-12 col-lg-4 col-xl-4 p-x-0">
+    <p data-sc-field-key="326800A613A2480ABFC32E41333A180E" class="text">Đăng k&#253; v&#224; cập nhật          
+</p>
+</div>
+<div data-sc-field-key="F97ADD9D71614E8BB090DD3A0D623B1E" class="subscribe-input align-self-center col-sm-12 col-md-12 col-lg-8 col-xl-8 p-x-0">
+    <div data-sc-field-key="DB9AEED5ACF04B5A9CF724E7E2B219C7" class="subscribe-input-content d-flex">
+    <input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_Fields_Index_ebea5fae-443a-4856-8d6c-94f6e8fe8b69" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.Fields.Index" type="hidden" value="ebea5fae-443a-4856-8d6c-94f6e8fe8b69" /><input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_Fields_ebea5fae-443a-4856-8d6c-94f6e8fe8b69__ItemId" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.Fields[ebea5fae-443a-4856-8d6c-94f6e8fe8b69].ItemId" type="hidden" value="ebea5fae-443a-4856-8d6c-94f6e8fe8b69" /><label for="fxb_2662dd95-652f-4402-9402-143e72b885b4_Fields_ebea5fae-443a-4856-8d6c-94f6e8fe8b69__Value" class=""></label>
+<input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_Fields_ebea5fae-443a-4856-8d6c-94f6e8fe8b69__Value" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.Fields[ebea5fae-443a-4856-8d6c-94f6e8fe8b69].Value" class="input-subscribe" type="email" value="" maxlength="255" placeholder="Email của bạn" data-sc-tracking="True" data-sc-field-name="Email" data-sc-field-key="67911527F4814FF588589E188ECD64B1" data-val-required="Vui l&#242;ng nhập dữ liệu." data-val-regex="Vui l&#242;ng nhập một địa chỉ email hợp lệ." data-val-regex-pattern="^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,17}$" data-val-length=" phải c&#243; &#237;t nhất 0 v&#224; kh&#244;ng nhiều hơn 255 k&#237; tự." data-val-length-max="255" data-val="true"/>
+<span class="field-validation-valid" data-valmsg-for="fxb.2662dd95-652f-4402-9402-143e72b885b4.Fields[ebea5fae-443a-4856-8d6c-94f6e8fe8b69].Value" data-valmsg-replace="true"></span>
+
+<input value="Đăng k&#253;" type="submit" class="btn-subscribe" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.75848e7f-2583-4aae-aaa6-141fbfbf992c" data-sc-field-key="74B4A1DC1E704A9091F2C0B63B90A71C" />
+<input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_NavigationButtons" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.NavigationButtons" type="hidden" value="75848e7f-2583-4aae-aaa6-141fbfbf992c" />
+<input id="fxb_2662dd95-652f-4402-9402-143e72b885b4_75848e7f-2583-4aae-aaa6-141fbfbf992c" name="fxb.2662dd95-652f-4402-9402-143e72b885b4.75848e7f-2583-4aae-aaa6-141fbfbf992c" type="hidden" value="0" />
+</div>
+
+</div>
+
+</div>
+        <input type="hidden" data-sc-fxb-condition value='{}'/>
+</form>
+
+    </div>
+</div>
+
+    <div class="component social-link d-lg-block d-none p-b-25 w-20">
+        <div class="component-content">
+<style nonce="aHR0cHM6Ly9mcHQuY29t">
+    .csp-s-margin-top-0 {
+        margin-top: 0 !important;
+    }
+</style>
+
+<p class="social-link-title csp-s-margin-top-0">Theo d&#245;i ch&#250;ng t&#244;i</p>
+<div class="social-link-image">
+    
+        <div class="social-link-image-item">
+            <a target="_blank" href="https://www.facebook.com/91936967046/">
+                <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/common/fpt/social-links/facebook/facebook.png" alt="icon-social">
+            </a>
+        </div>
+    
+        <div class="social-link-image-item">
+            <a target="_blank" href="https://www.linkedin.com/company/fpt-corporation">
+                <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/common/fpt/social-links/linked/linkedin.png" alt="icon-social">
+            </a>
+        </div>
+    
+        <div class="social-link-image-item">
+            <a target="_blank" href="https://youtube.com/c/FPTCorporation">
+                <img class="lazyload" data-src="/-/media/project/fpt-corporation/fpt/common/fpt/social-links/youtube/youtube.png" alt="icon-social">
+            </a>
+        </div>
+    
+</div>
+        </div>
+    </div>
+
+        </div>
+        <div class=" mobile-padding-x-20">
+            
+        </div>
+</div>    </div>
+</div>
+
+
+<div class="component fpt-container">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter m-x-0-mb">
+        <div class="col-xl-12">
+            
+
+		<div class="component navigation in-footer navigation-fat">
+			<div class="component-content">
+				<nav>
+<ul class="clearfix">
+        <li class=" level1 submenu item0 odd first rel-level1">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt">Về FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/thong-diep-chu-tich">Th&#244;ng điệp Chủ tịch HĐQT</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/thong-diep-tong-giam-doc">Th&#244;ng điệp Tổng gi&#225;m đốc</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/gia-tri-cot-loi">Gi&#225; trị cốt l&#245;i</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/lich-su">Lịch sử</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/tam-nhin-chien-luoc">Tầm nh&#236;n chiến lược</a>
+    
+</div>
+        </li>
+        <li class=" level2 item5 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/mang-luoi-hoat-dong">Mạng lưới hoạt động</a>
+    
+</div>
+        </li>
+        <li class=" level2 item6 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/doi-ngu-lanh-dao">Đội ngũ l&#227;nh đạo</a>
+    
+</div>
+        </li>
+        <li class=" level2 item7 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/trach-nhiem-xa-hoi">Tr&#225;ch nhiệm x&#227; hội</a>
+    
+</div>
+        </li>
+        <li class=" level2 item8 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/giai-thuong">Giải thưởng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item9 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/ve-fpt/doi-tac-va-khach-hang">Đối t&#225;c v&#224; kh&#225;ch h&#224;ng</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item1 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/he-sinh-thai-fpt">Hệ sinh th&#225;i FPT</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/he-sinh-thai-fpt/cong-nghe">C&#244;ng nghệ</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/he-sinh-thai-fpt/vien-thong">Viễn th&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/he-sinh-thai-fpt/giao-duc">Gi&#225;o  dục</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even last rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/he-sinh-thai-fpt/cong-ty-thanh-vien">C&#244;ng ty th&#224;nh vi&#234;n</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 submenu item2 odd rel-level1">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu">Nh&#224; đầu tư</a>
+    
+</div><ul class="clearfix">
+        <li class=" level2 item0 odd first rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu/dai-hoi-co-dong">Đại hội đồng cổ đ&#244;ng</a>
+    
+</div>
+        </li>
+        <li class=" level2 item1 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu/thong-tin-cong-bo">C&#244;ng bố th&#244;ng tin</a>
+    
+</div>
+        </li>
+        <li class=" level2 item2 odd rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu/bao-cao-thuong-nien">B&#225;o c&#225;o</a>
+    
+</div>
+        </li>
+        <li class=" level2 item3 even rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu/thong-tin-co-phieu">Th&#244;ng tin cổ phiếu</a>
+    
+</div>
+        </li>
+        <li class=" level2 item4 odd last rel-level2">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/nha-dau-tu/quan-tri-cong-ty">Quản trị c&#244;ng ty</a>
+    
+</div>
+        </li>
+</ul>
+
+        </li>
+        <li class=" level1 item3 even rel-level1">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/tin-tuc">Tin tức</a>
+    
+</div>
+        </li>
+        <li class=" level1 item4 odd last rel-level1">
+<div class="navigation-title field-navigationtitle">
+    
+    <a href="/vi/co-hoi-nghe-nghiep">Cơ hội nghề nghiệp</a>
+    
+</div>
+        </li>
+</ul>
+
+				</nav>
+			</div>
+		</div>
+
+        </div>
+</div>    </div>
+</div>
+
+
+<div class="component fpt-container m-t-40-mb m-t-60 fpt-border-gray-top">
+    <div class="component-content" >
+
+
+<div class="row component column-splitter m-x-0-mb">
+        <div class="col-sm-12 col-md-12 col-xl-4">
+            
+
+    <div class="component rich-text future-direction-top m-t-60 richtext-footer-left with-title">
+        <div class="component-content">
+<div class="d-flex">
+    <style nonce="aHR0cHM6Ly9mcHQuY29t">
+        .csp-s-footer-padding {
+        padding:25px 0;
+        }
+    </style>
+    <div class="richtext-footer-left-content csp-s-footer-padding">
+    Copyright &copy; FPT</div>
+    </div>        </div>
+    </div>
+
+        </div>
+        <div class="col-sm-12 col-md-12 col-xl-8">
+            
+<div class="component link-list link-list-footer col-sm-12 col-md-12 col-xl-8 justify-content-sm-start justify-content-xl-end p-x-0-mb">
+    <div class="component-content">
+        
+                <ul>
+                <li class="item0 odd first">
+<div class="field-link"><a href="/vi/dieu-khoan-su-dung" data-variantitemid="{C90FC207-E057-4C1E-B71A-BFADC5CAAF90}" data-variantfieldname="Link">Điều khoản sử dụng</a></div>                </li>
+                <li class="item1 even">
+<div class="field-link"><a href="/vi/so-do-website" data-variantitemid="{B4ADB673-029B-49E4-AF02-CFC4282C8D75}" data-variantfieldname="Link">Sơ đồ Website</a></div>                </li>
+                <li class="item2 odd">
+<div class="field-link"><a href="/vi/lien-he" data-variantitemid="{864DF4ED-44E7-4ED2-AF40-055142FE66AB}" data-variantfieldname="Link">Li&#234;n hệ &amp; Trợ gi&#250;p</a></div>                </li>
+                <li class="item3 even last">
+<div class="field-link"><a href="/-/media/project/fpt-corporation/fpt/common/fpt/file/stth-fpt_20230929.pdf" rel="noopener noreferrer" data-variantitemid="{161606CA-136A-40B3-8349-370A7865D7AF}" data-variantfieldname="Link" target="_blank">Thương hiệu</a></div>                </li>
+        </ul>
+    </div>
+</div>
+
+        </div>
+</div>    </div>
+</div>    </div>
+</div>
+        </div>
+    </footer>
+    <!-- /#footer -->
+</div>
+<!-- /#wrapper -->
+
+	
+
+
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery-3.7.1.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.validate.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.tracking.js"></script>
+<script src="/sitecore%20modules/Web/ExperienceForms/scripts/form.conditions.js"></script>
+<script type="text/javascript">
+var lang = 'vi-VN';
+var script = document.createElement("script");
+if (lang == 'vi-VN')
+{
+    script.src = "/sitecore%20modules/Web/ExperienceForms/scripts/localization/messages_vi.js";
+    $("head").append(script);
+}
+</script>
+
+<script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/echartmin-theme/scripts/echartsmin.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/echartmin-theme/scripts/shareholding-chart.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/echartmin-theme/scripts/stock-quote.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/echartmin-theme/scripts/stock-chart.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/echartmin-theme/scripts/z-default-passive.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/fptweb-base/scripts/d3v7min.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/fptweb-base/scripts/lazyload.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/fptweb-base/scripts/toc-lib-min.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/slickmin.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/component-banner-slider-offer2.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/component-strategic-partners-brand.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/component-strategic-partners-slider.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/component-strategic-partners-video.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/component-tabs.js"></script><script defer src="/-/media/themes/fpt-corporation/fpt/component-themes/slick-theme/scripts/milestones-container.js"></script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"rayId":"98398ce02c856b9f","version":"2025.9.1","serverTiming":{"name":{"cfExtPri":true,"cfEdge":true,"cfOrigin":true,"cfL4":true,"cfSpeedBrain":true,"cfCacheStatus":true}},"token":"131e4b1342514a4ebd7d6d64ee2af1c5","b":1}' crossorigin="anonymous"></script>
+</body>
+</html>
